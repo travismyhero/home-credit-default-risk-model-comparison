@@ -1,0 +1,251 @@
+Model,Feature,Importance,SignedValue,Direction
+Logistic Regression,EXT_SOURCE_3,0.4504393339157104,-0.45043933,Lower risk
+Logistic Regression,EXT_SOURCE_2,0.3808436393737793,-0.38084364,Lower risk
+Logistic Regression,EXT_SOURCE_1,0.1816694438457489,-0.18166944,Lower risk
+Logistic Regression,PAYMENT_RATE,0.1705453395843505,-0.17054534,Lower risk
+Logistic Regression,GOODS_CREDIT_RATIO,0.166686549782753,-0.16668655,Lower risk
+Logistic Regression,CODE_GENDER_F,0.1627388596534729,-0.16273886,Lower risk
+Logistic Regression,CODE_GENDER_M,0.1624316424131393,0.16243164,Higher risk
+Logistic Regression,NAME_EDUCATION_TYPE_Higher education,0.1447145789861679,-0.14471458,Lower risk
+Logistic Regression,CREDIT_ANNUITY_RATIO,0.1251707822084427,-0.12517078,Lower risk
+Logistic Regression,ORGANIZATION_TYPE_Construction,0.1250004172325134,0.12500042,Higher risk
+Logistic Regression,NAME_EDUCATION_TYPE_Secondary / secondary special,0.1248392909765243,0.12483929,Higher risk
+Logistic Regression,FLAG_OWN_CAR_Y,0.1201571822166442,-0.12015718,Lower risk
+Logistic Regression,FLAG_OWN_CAR_N,0.1199235096573829,0.11992351,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Self-employed,0.0996551662683487,0.099655166,Higher risk
+Logistic Regression,FLAG_DOCUMENT_3,0.0982184782624244,0.09821848,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Drivers,0.0949100404977798,0.09491004,Higher risk
+Logistic Regression,ANNUITY_INCOME_RATIO,0.0902786180377006,0.09027862,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Core staff,0.0877582654356956,-0.087758265,Lower risk
+Logistic Regression,EMPLOYED_BIRTH_RATIO,0.0841327160596847,-0.084132716,Lower risk
+Logistic Regression,DAYS_EMPLOYED,0.0810849145054817,0.081084915,Higher risk
+Logistic Regression,REGION_RATING_CLIENT_W_CITY,0.0763946920633316,0.07639469,Higher risk
+Logistic Regression,NAME_FAMILY_STATUS_Married,0.0727670416235923,-0.07276704,Lower risk
+Logistic Regression,FLAG_WORK_PHONE,0.0673996210098266,0.06739962,Higher risk
+Logistic Regression,NAME_INCOME_TYPE_Working,0.0625040382146835,0.06250404,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Accountants,0.0625009462237358,-0.062500946,Lower risk
+Logistic Regression,ORGANIZATION_TYPE_School,0.0625006705522537,-0.06250067,Lower risk
+Logistic Regression,OCCUPATION_TYPE_Low-skill Laborers,0.0625005066394805,0.06250051,Higher risk
+Logistic Regression,NAME_INCOME_TYPE_State servant,0.0625004693865776,-0.06250047,Lower risk
+Logistic Regression,ORGANIZATION_TYPE_Military,0.0625000745058059,-0.062500075,Lower risk
+Logistic Regression,NAME_EDUCATION_TYPE_Lower secondary,0.0625000596046447,0.06250006,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Trade: type 2,0.0625000149011612,-0.062500015,Lower risk
+Logistic Regression,ORGANIZATION_TYPE_Industry: type 9,0.0625,-0.0625,Lower risk
+Logistic Regression,ORGANIZATION_TYPE_Transport: type 3,0.0625,0.0625,Higher risk
+Logistic Regression,AMT_ANNUITY,0.0623007528483867,0.062300753,Higher risk
+Logistic Regression,DAYS_ID_PUBLISH,0.061741717159748,0.061741717,Higher risk
+Logistic Regression,NAME_FAMILY_STATUS_Civil marriage,0.0615099407732486,0.06150994,Higher risk
+Logistic Regression,FLAG_DOCUMENT_13,0.0557736046612262,-0.055773605,Lower risk
+Logistic Regression,REG_CITY_NOT_LIVE_CITY,0.0535375103354454,0.05353751,Higher risk
+Logistic Regression,AMT_CREDIT,0.0531120710074901,-0.05311207,Lower risk
+Logistic Regression,FLAG_DOCUMENT_18,0.0510266199707984,-0.05102662,Lower risk
+Logistic Regression,DAYS_LAST_PHONE_CHANGE,0.0509714819490909,0.050971482,Higher risk
+Logistic Regression,FONDKAPREMONT_MODE_reg oper account,0.0506309457123279,0.050630946,Higher risk
+Logistic Regression,FLAG_DOCUMENT_16,0.0506256558001041,-0.050625656,Lower risk
+Logistic Regression,FONDKAPREMONT_MODE_reg oper spec account,0.0486781261861324,-0.048678126,Lower risk
+Logistic Regression,FLAG_EMP_PHONE,0.0460418574512004,0.046041857,Higher risk
+Logistic Regression,WEEKDAY_APPR_PROCESS_START_SATURDAY,0.0448929071426391,-0.044892907,Lower risk
+Logistic Regression,FLAG_DOCUMENT_15,0.0441814437508583,-0.044181444,Lower risk
+Logistic Regression,DEF_30_CNT_SOCIAL_CIRCLE,0.0436800047755241,0.043680005,Higher risk
+Logistic Regression,OCCUPATION_TYPE_High skill tech staff,0.0430925711989402,-0.04309257,Lower risk
+Logistic Regression,AMT_REQ_CREDIT_BUREAU_QRT,0.0429834760725498,-0.042983476,Lower risk
+Decision Tree,EXT_SOURCE_2,0.3748088753426287,,Non-directional importance
+Decision Tree,EXT_SOURCE_3,0.3500527288345631,,Non-directional importance
+Decision Tree,EXT_SOURCE_1,0.0787492254722904,,Non-directional importance
+Decision Tree,GOODS_CREDIT_RATIO,0.0416986452671391,,Non-directional importance
+Decision Tree,CODE_GENDER_F,0.0260790289738304,,Non-directional importance
+Decision Tree,EMPLOYED_BIRTH_RATIO,0.0216216024721498,,Non-directional importance
+Decision Tree,DAYS_EMPLOYED,0.0205050702149974,,Non-directional importance
+Decision Tree,DAYS_BIRTH,0.0118921304486355,,Non-directional importance
+Decision Tree,NAME_EDUCATION_TYPE_Higher education,0.0112146814382072,,Non-directional importance
+Decision Tree,CREDIT_ANNUITY_RATIO,0.0084477135770928,,Non-directional importance
+Decision Tree,ANNUITY_INCOME_RATIO,0.0065622651854109,,Non-directional importance
+Decision Tree,DAYS_ID_PUBLISH,0.0056647098215056,,Non-directional importance
+Decision Tree,NAME_EDUCATION_TYPE_Secondary / secondary special,0.0052963160767298,,Non-directional importance
+Decision Tree,CODE_GENDER_M,0.0040378600375661,,Non-directional importance
+Decision Tree,AMT_CREDIT,0.0039579741038457,,Non-directional importance
+Decision Tree,CREDIT_INCOME_RATIO,0.0034375347595736,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_3,0.0032601436963769,,Non-directional importance
+Decision Tree,PAYMENT_RATE,0.0025046641564642,,Non-directional importance
+Decision Tree,BASEMENTAREA_MODE,0.0023118184912264,,Non-directional importance
+Decision Tree,AMT_ANNUITY,0.0019981839540951,,Non-directional importance
+Decision Tree,ELEVATORS_AVG,0.001956310957045,,Non-directional importance
+Decision Tree,LIVINGAREA_MODE,0.0019502217734012,,Non-directional importance
+Decision Tree,DAYS_LAST_PHONE_CHANGE,0.0017453865146486,,Non-directional importance
+Decision Tree,DEF_60_CNT_SOCIAL_CIRCLE,0.0015513862898226,,Non-directional importance
+Decision Tree,FLAG_OWN_CAR_N,0.0015378153280099,,Non-directional importance
+Decision Tree,OBS_30_CNT_SOCIAL_CIRCLE,0.001323259279493,,Non-directional importance
+Decision Tree,AMT_REQ_CREDIT_BUREAU_YEAR,0.0013063308894087,,Non-directional importance
+Decision Tree,DAYS_REGISTRATION,0.0012950751430781,,Non-directional importance
+Decision Tree,REGION_POPULATION_RELATIVE,0.0008933316983679,,Non-directional importance
+Decision Tree,ENTRANCES_AVG,0.0007031752052797,,Non-directional importance
+Decision Tree,NONLIVINGAREA_AVG,0.0006120532600276,,Non-directional importance
+Decision Tree,AMT_INCOME_TOTAL,0.0005423858812543,,Non-directional importance
+Decision Tree,INCOME_PER_PERSON,0.0004820954558331,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Culture,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Construction,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Cleaning,0.0,,Non-directional importance
+Decision Tree,CNT_CHILDREN,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Electricity,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Business Entity Type 2,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Emergency,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Government,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Hotel,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Housing,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 1,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 10,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Business Entity Type 3,0.0,,Non-directional importance
+Decision Tree,WEEKDAY_APPR_PROCESS_START_THURSDAY,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Business Entity Type 1,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Bank,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Cooking staff,0.0,,Non-directional importance
+Random Forest,EXT_SOURCE_2,0.140416105482643,,Non-directional importance
+Random Forest,EXT_SOURCE_3,0.136518078020098,,Non-directional importance
+Random Forest,EXT_SOURCE_1,0.0462552004566665,,Non-directional importance
+Random Forest,DAYS_EMPLOYED,0.0384660581362528,,Non-directional importance
+Random Forest,PAYMENT_RATE,0.034133187706082,,Non-directional importance
+Random Forest,DAYS_BIRTH,0.0337079426587463,,Non-directional importance
+Random Forest,GOODS_CREDIT_RATIO,0.0333934909667461,,Non-directional importance
+Random Forest,CREDIT_ANNUITY_RATIO,0.0325235794577014,,Non-directional importance
+Random Forest,EMPLOYED_BIRTH_RATIO,0.0293396337202999,,Non-directional importance
+Random Forest,DAYS_LAST_PHONE_CHANGE,0.0242258784544739,,Non-directional importance
+Random Forest,DAYS_ID_PUBLISH,0.0219683920027556,,Non-directional importance
+Random Forest,AMT_CREDIT,0.0208316492441174,,Non-directional importance
+Random Forest,AMT_ANNUITY,0.0194359103909513,,Non-directional importance
+Random Forest,DAYS_REGISTRATION,0.0174450036164003,,Non-directional importance
+Random Forest,CREDIT_INCOME_RATIO,0.0164874708830776,,Non-directional importance
+Random Forest,ANNUITY_INCOME_RATIO,0.0156646550158209,,Non-directional importance
+Random Forest,REGION_POPULATION_RELATIVE,0.0142192730564906,,Non-directional importance
+Random Forest,NAME_EDUCATION_TYPE_Higher education,0.0131276834170316,,Non-directional importance
+Random Forest,INCOME_PER_PERSON,0.0107160497686322,,Non-directional importance
+Random Forest,AMT_INCOME_TOTAL,0.01056950799329,,Non-directional importance
+Random Forest,CODE_GENDER_F,0.0103857417498615,,Non-directional importance
+Random Forest,OWN_CAR_AGE,0.0092604340744603,,Non-directional importance
+Random Forest,TOTALAREA_MODE,0.0088390419370815,,Non-directional importance
+Random Forest,CODE_GENDER_M,0.0081160230254032,,Non-directional importance
+Random Forest,REGION_RATING_CLIENT_W_CITY,0.0080554234114948,,Non-directional importance
+Random Forest,HOUR_APPR_PROCESS_START,0.0080503912520651,,Non-directional importance
+Random Forest,LIVINGAREA_MODE,0.0079117284061183,,Non-directional importance
+Random Forest,LIVINGAREA_AVG,0.0077456122863869,,Non-directional importance
+Random Forest,NAME_EDUCATION_TYPE_Secondary / secondary special,0.0074047938194434,,Non-directional importance
+Random Forest,YEARS_BEGINEXPLUATATION_MODE,0.0070667075669485,,Non-directional importance
+Random Forest,YEARS_BEGINEXPLUATATION_AVG,0.0068227856995655,,Non-directional importance
+Random Forest,REGION_RATING_CLIENT,0.006662393922217,,Non-directional importance
+Random Forest,FLAG_DOCUMENT_3,0.0065485363578458,,Non-directional importance
+Random Forest,APARTMENTS_AVG,0.0065480737796966,,Non-directional importance
+Random Forest,APARTMENTS_MODE,0.0063123244295678,,Non-directional importance
+Random Forest,NAME_INCOME_TYPE_Working,0.0061261832849876,,Non-directional importance
+Random Forest,LANDAREA_AVG,0.0060395203626797,,Non-directional importance
+Random Forest,BASEMENTAREA_AVG,0.0059420538815673,,Non-directional importance
+Random Forest,BASEMENTAREA_MODE,0.0059037579229309,,Non-directional importance
+Random Forest,LANDAREA_MODE,0.0058603388932587,,Non-directional importance
+Random Forest,AMT_REQ_CREDIT_BUREAU_YEAR,0.0058101620679642,,Non-directional importance
+Random Forest,NONLIVINGAREA_AVG,0.0051901645432067,,Non-directional importance
+Random Forest,OBS_30_CNT_SOCIAL_CIRCLE,0.0051052513495274,,Non-directional importance
+Random Forest,NONLIVINGAREA_MODE,0.0047585010557963,,Non-directional importance
+Random Forest,COMMONAREA_MODE,0.0044082398461267,,Non-directional importance
+Random Forest,COMMONAREA_AVG,0.0043533518283093,,Non-directional importance
+Random Forest,YEARS_BUILD_AVG,0.0043394266862098,,Non-directional importance
+Random Forest,LIVINGAPARTMENTS_AVG,0.0040568734161799,,Non-directional importance
+Random Forest,REG_CITY_NOT_WORK_CITY,0.0037457029496499,,Non-directional importance
+Random Forest,LIVINGAPARTMENTS_MODE,0.0037408592930091,,Non-directional importance
+XGBoost,EXT_SOURCE_2,0.0394086800515651,,Non-directional importance
+XGBoost,EXT_SOURCE_3,0.0366197116672992,,Non-directional importance
+XGBoost,NAME_EDUCATION_TYPE_Higher education,0.0310105197131633,,Non-directional importance
+XGBoost,CODE_GENDER_F,0.0210052467882633,,Non-directional importance
+XGBoost,CODE_GENDER_M,0.0167428981512784,,Non-directional importance
+XGBoost,GOODS_CREDIT_RATIO,0.014515371993184,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_3,0.0143759436905384,,Non-directional importance
+XGBoost,EXT_SOURCE_1,0.0143225062638521,,Non-directional importance
+XGBoost,DAYS_EMPLOYED,0.0128668816760182,,Non-directional importance
+XGBoost,NAME_CONTRACT_TYPE_Cash loans,0.0109066115692257,,Non-directional importance
+XGBoost,PAYMENT_RATE,0.0103594185784459,,Non-directional importance
+XGBoost,NAME_INCOME_TYPE_Working,0.0103154378011822,,Non-directional importance
+XGBoost,NAME_EDUCATION_TYPE_Secondary / secondary special,0.010203712619841,,Non-directional importance
+XGBoost,REG_CITY_NOT_LIVE_CITY,0.0093740122392773,,Non-directional importance
+XGBoost,DEF_60_CNT_SOCIAL_CIRCLE,0.0087084136903285,,Non-directional importance
+XGBoost,CREDIT_ANNUITY_RATIO,0.008698720484972,,Non-directional importance
+XGBoost,FLAG_OWN_CAR_N,0.0081726815551519,,Non-directional importance
+XGBoost,REGION_RATING_CLIENT_W_CITY,0.008025474846363,,Non-directional importance
+XGBoost,DEF_30_CNT_SOCIAL_CIRCLE,0.0078343888744711,,Non-directional importance
+XGBoost,OWN_CAR_AGE,0.0076664467342197,,Non-directional importance
+XGBoost,NAME_FAMILY_STATUS_Married,0.0072420137003064,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Construction,0.0072330511175096,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Core staff,0.0072082160040736,,Non-directional importance
+XGBoost,DAYS_BIRTH,0.0071488516405224,,Non-directional importance
+XGBoost,AMT_REQ_CREDIT_BUREAU_QRT,0.0067990096285939,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_11,0.0063482085242867,,Non-directional importance
+XGBoost,NAME_INCOME_TYPE_State servant,0.0063260197639465,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Self-employed,0.0063251513056457,,Non-directional importance
+XGBoost,AMT_ANNUITY,0.0063038081862032,,Non-directional importance
+XGBoost,FLAG_WORK_PHONE,0.0059222211129963,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Restaurant,0.005855169147253,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Cooking staff,0.0057964189909398,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Trade: type 2,0.005710276775062,,Non-directional importance
+XGBoost,AMT_CREDIT,0.0056457021273672,,Non-directional importance
+XGBoost,EMPLOYED_BIRTH_RATIO,0.0055972877889871,,Non-directional importance
+XGBoost,NAME_INCOME_TYPE_Pensioner,0.0055748140439391,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Military,0.0055596427991986,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Accountants,0.0054460447281599,,Non-directional importance
+XGBoost,DAYS_ID_PUBLISH,0.0053618163801729,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Low-skill Laborers,0.0053479624912142,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Industry: type 11,0.0053275949321687,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Trade: type 7,0.0052122604101896,,Non-directional importance
+XGBoost,ELEVATORS_AVG,0.005201163701713,,Non-directional importance
+XGBoost,ELEVATORS_MODE,0.0051686707884073,,Non-directional importance
+XGBoost,FLOORSMAX_AVG,0.0051020425744354,,Non-directional importance
+XGBoost,REG_REGION_NOT_WORK_REGION,0.0050746584311127,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Transport: type 4,0.0049275937490165,,Non-directional importance
+XGBoost,APARTMENTS_AVG,0.0049262437969446,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Postal,0.0049174628220498,,Non-directional importance
+XGBoost,ANNUITY_INCOME_RATIO,0.004901579581201,,Non-directional importance
+LightGBM,PAYMENT_RATE,508.0,,Non-directional importance
+LightGBM,CREDIT_ANNUITY_RATIO,487.0,,Non-directional importance
+LightGBM,EXT_SOURCE_2,470.0,,Non-directional importance
+LightGBM,EXT_SOURCE_3,440.0,,Non-directional importance
+LightGBM,EXT_SOURCE_1,414.0,,Non-directional importance
+LightGBM,DAYS_BIRTH,389.0,,Non-directional importance
+LightGBM,DAYS_ID_PUBLISH,294.0,,Non-directional importance
+LightGBM,AMT_ANNUITY,287.0,,Non-directional importance
+LightGBM,AMT_CREDIT,276.0,,Non-directional importance
+LightGBM,DAYS_LAST_PHONE_CHANGE,269.0,,Non-directional importance
+LightGBM,GOODS_CREDIT_RATIO,254.0,,Non-directional importance
+LightGBM,DAYS_EMPLOYED,241.0,,Non-directional importance
+LightGBM,DAYS_REGISTRATION,223.0,,Non-directional importance
+LightGBM,EMPLOYED_BIRTH_RATIO,223.0,,Non-directional importance
+LightGBM,ANNUITY_INCOME_RATIO,205.0,,Non-directional importance
+LightGBM,CREDIT_INCOME_RATIO,183.0,,Non-directional importance
+LightGBM,REGION_POPULATION_RELATIVE,165.0,,Non-directional importance
+LightGBM,INCOME_PER_PERSON,122.0,,Non-directional importance
+LightGBM,OWN_CAR_AGE,119.0,,Non-directional importance
+LightGBM,AMT_REQ_CREDIT_BUREAU_YEAR,110.0,,Non-directional importance
+LightGBM,AMT_INCOME_TOTAL,103.0,,Non-directional importance
+LightGBM,HOUR_APPR_PROCESS_START,90.0,,Non-directional importance
+LightGBM,COMMONAREA_AVG,88.0,,Non-directional importance
+LightGBM,LIVINGAREA_MODE,85.0,,Non-directional importance
+LightGBM,YEARS_BEGINEXPLUATATION_MODE,84.0,,Non-directional importance
+LightGBM,CODE_GENDER_F,83.0,,Non-directional importance
+LightGBM,BASEMENTAREA_MODE,80.0,,Non-directional importance
+LightGBM,YEARS_BUILD_AVG,77.0,,Non-directional importance
+LightGBM,LIVINGAREA_AVG,75.0,,Non-directional importance
+LightGBM,LANDAREA_MODE,74.0,,Non-directional importance
+LightGBM,TOTALAREA_MODE,73.0,,Non-directional importance
+LightGBM,APARTMENTS_AVG,72.0,,Non-directional importance
+LightGBM,REGION_RATING_CLIENT_W_CITY,69.0,,Non-directional importance
+LightGBM,APARTMENTS_MODE,68.0,,Non-directional importance
+LightGBM,NONLIVINGAREA_AVG,68.0,,Non-directional importance
+LightGBM,OBS_30_CNT_SOCIAL_CIRCLE,66.0,,Non-directional importance
+LightGBM,NAME_EDUCATION_TYPE_Higher education,65.0,,Non-directional importance
+LightGBM,BASEMENTAREA_AVG,63.0,,Non-directional importance
+LightGBM,AMT_REQ_CREDIT_BUREAU_QRT,61.0,,Non-directional importance
+LightGBM,LANDAREA_AVG,61.0,,Non-directional importance
+LightGBM,YEARS_BEGINEXPLUATATION_AVG,60.0,,Non-directional importance
+LightGBM,NONLIVINGAREA_MODE,58.0,,Non-directional importance
+LightGBM,COMMONAREA_MODE,53.0,,Non-directional importance
+LightGBM,FLAG_OWN_CAR_N,52.0,,Non-directional importance
+LightGBM,DEF_30_CNT_SOCIAL_CIRCLE,51.0,,Non-directional importance
+LightGBM,NAME_FAMILY_STATUS_Married,50.0,,Non-directional importance
+LightGBM,FLAG_WORK_PHONE,48.0,,Non-directional importance
+LightGBM,LIVINGAPARTMENTS_MODE,45.0,,Non-directional importance
+LightGBM,NAME_CONTRACT_TYPE_Cash loans,42.0,,Non-directional importance
+LightGBM,LIVINGAPARTMENTS_AVG,41.0,,Non-directional importance

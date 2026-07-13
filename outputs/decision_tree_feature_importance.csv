@@ -1,0 +1,233 @@
+Model,Feature,Importance,SignedValue,Direction
+Decision Tree,EXT_SOURCE_2,0.3748088753426287,,Non-directional importance
+Decision Tree,EXT_SOURCE_3,0.3500527288345631,,Non-directional importance
+Decision Tree,EXT_SOURCE_1,0.0787492254722904,,Non-directional importance
+Decision Tree,GOODS_CREDIT_RATIO,0.0416986452671391,,Non-directional importance
+Decision Tree,CODE_GENDER_F,0.0260790289738304,,Non-directional importance
+Decision Tree,EMPLOYED_BIRTH_RATIO,0.0216216024721498,,Non-directional importance
+Decision Tree,DAYS_EMPLOYED,0.0205050702149974,,Non-directional importance
+Decision Tree,DAYS_BIRTH,0.0118921304486355,,Non-directional importance
+Decision Tree,NAME_EDUCATION_TYPE_Higher education,0.0112146814382072,,Non-directional importance
+Decision Tree,CREDIT_ANNUITY_RATIO,0.0084477135770928,,Non-directional importance
+Decision Tree,ANNUITY_INCOME_RATIO,0.0065622651854109,,Non-directional importance
+Decision Tree,DAYS_ID_PUBLISH,0.0056647098215056,,Non-directional importance
+Decision Tree,NAME_EDUCATION_TYPE_Secondary / secondary special,0.0052963160767298,,Non-directional importance
+Decision Tree,CODE_GENDER_M,0.0040378600375661,,Non-directional importance
+Decision Tree,AMT_CREDIT,0.0039579741038457,,Non-directional importance
+Decision Tree,CREDIT_INCOME_RATIO,0.0034375347595736,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_3,0.0032601436963769,,Non-directional importance
+Decision Tree,PAYMENT_RATE,0.0025046641564642,,Non-directional importance
+Decision Tree,BASEMENTAREA_MODE,0.0023118184912264,,Non-directional importance
+Decision Tree,AMT_ANNUITY,0.0019981839540951,,Non-directional importance
+Decision Tree,ELEVATORS_AVG,0.001956310957045,,Non-directional importance
+Decision Tree,LIVINGAREA_MODE,0.0019502217734012,,Non-directional importance
+Decision Tree,DAYS_LAST_PHONE_CHANGE,0.0017453865146486,,Non-directional importance
+Decision Tree,DEF_60_CNT_SOCIAL_CIRCLE,0.0015513862898226,,Non-directional importance
+Decision Tree,FLAG_OWN_CAR_N,0.0015378153280099,,Non-directional importance
+Decision Tree,OBS_30_CNT_SOCIAL_CIRCLE,0.001323259279493,,Non-directional importance
+Decision Tree,AMT_REQ_CREDIT_BUREAU_YEAR,0.0013063308894087,,Non-directional importance
+Decision Tree,DAYS_REGISTRATION,0.0012950751430781,,Non-directional importance
+Decision Tree,REGION_POPULATION_RELATIVE,0.0008933316983679,,Non-directional importance
+Decision Tree,ENTRANCES_AVG,0.0007031752052797,,Non-directional importance
+Decision Tree,NONLIVINGAREA_AVG,0.0006120532600276,,Non-directional importance
+Decision Tree,AMT_INCOME_TOTAL,0.0005423858812543,,Non-directional importance
+Decision Tree,INCOME_PER_PERSON,0.0004820954558331,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Culture,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Construction,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Cleaning,0.0,,Non-directional importance
+Decision Tree,CNT_CHILDREN,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Electricity,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Business Entity Type 2,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Emergency,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Government,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Hotel,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Housing,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 1,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 10,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Business Entity Type 3,0.0,,Non-directional importance
+Decision Tree,WEEKDAY_APPR_PROCESS_START_THURSDAY,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Business Entity Type 1,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Bank,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Cooking staff,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Core staff,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Drivers,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_HR staff,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_High skill tech staff,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_IT staff,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Laborers,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Low-skill Laborers,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Managers,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Medicine staff,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Private service staff,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Realty agents,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Sales staff,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Secretaries,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Security staff,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Waiters/barmen staff,0.0,,Non-directional importance
+Decision Tree,WEEKDAY_APPR_PROCESS_START_FRIDAY,0.0,,Non-directional importance
+Decision Tree,WEEKDAY_APPR_PROCESS_START_MONDAY,0.0,,Non-directional importance
+Decision Tree,WEEKDAY_APPR_PROCESS_START_SATURDAY,0.0,,Non-directional importance
+Decision Tree,WEEKDAY_APPR_PROCESS_START_SUNDAY,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 12,0.0,,Non-directional importance
+Decision Tree,WEEKDAY_APPR_PROCESS_START_TUESDAY,0.0,,Non-directional importance
+Decision Tree,WEEKDAY_APPR_PROCESS_START_WEDNESDAY,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Advertising,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Agriculture,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 11,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Insurance,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 13,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 2,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Trade: type 4,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Trade: type 5,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Trade: type 6,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Trade: type 7,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Transport: type 1,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Transport: type 2,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Transport: type 3,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Transport: type 4,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_University,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_XNA,0.0,,Non-directional importance
+Decision Tree,FONDKAPREMONT_MODE_not specified,0.0,,Non-directional importance
+Decision Tree,FONDKAPREMONT_MODE_org spec account,0.0,,Non-directional importance
+Decision Tree,FONDKAPREMONT_MODE_reg oper account,0.0,,Non-directional importance
+Decision Tree,FONDKAPREMONT_MODE_reg oper spec account,0.0,,Non-directional importance
+Decision Tree,HOUSETYPE_MODE_block of flats,0.0,,Non-directional importance
+Decision Tree,HOUSETYPE_MODE_specific housing,0.0,,Non-directional importance
+Decision Tree,HOUSETYPE_MODE_terraced house,0.0,,Non-directional importance
+Decision Tree,WALLSMATERIAL_MODE_Block,0.0,,Non-directional importance
+Decision Tree,WALLSMATERIAL_MODE_Mixed,0.0,,Non-directional importance
+Decision Tree,WALLSMATERIAL_MODE_Monolithic,0.0,,Non-directional importance
+Decision Tree,WALLSMATERIAL_MODE_Others,0.0,,Non-directional importance
+Decision Tree,WALLSMATERIAL_MODE_Panel,0.0,,Non-directional importance
+Decision Tree,"WALLSMATERIAL_MODE_Stone, brick",0.0,,Non-directional importance
+Decision Tree,WALLSMATERIAL_MODE_Wooden,0.0,,Non-directional importance
+Decision Tree,EMERGENCYSTATE_MODE_No,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Trade: type 3,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Trade: type 2,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Trade: type 1,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Military,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 3,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 4,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 5,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 6,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 7,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 8,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Industry: type 9,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Accountants,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Kindergarten,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Legal Services,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Medicine,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Mobile,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Telecom,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Other,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Police,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Postal,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Realtor,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Religion,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Restaurant,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_School,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Security,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Security Ministries,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Self-employed,0.0,,Non-directional importance
+Decision Tree,ORGANIZATION_TYPE_Services,0.0,,Non-directional importance
+Decision Tree,OCCUPATION_TYPE_Cleaning staff,0.0,,Non-directional importance
+Decision Tree,NAME_EDUCATION_TYPE_Academic degree,0.0,,Non-directional importance
+Decision Tree,NAME_HOUSING_TYPE_With parents,0.0,,Non-directional importance
+Decision Tree,FLOORSMIN_AVG,0.0,,Non-directional importance
+Decision Tree,LIVINGAPARTMENTS_AVG,0.0,,Non-directional importance
+Decision Tree,LIVINGAREA_AVG,0.0,,Non-directional importance
+Decision Tree,NONLIVINGAPARTMENTS_AVG,0.0,,Non-directional importance
+Decision Tree,APARTMENTS_MODE,0.0,,Non-directional importance
+Decision Tree,YEARS_BEGINEXPLUATATION_MODE,0.0,,Non-directional importance
+Decision Tree,COMMONAREA_MODE,0.0,,Non-directional importance
+Decision Tree,ELEVATORS_MODE,0.0,,Non-directional importance
+Decision Tree,ENTRANCES_MODE,0.0,,Non-directional importance
+Decision Tree,LANDAREA_MODE,0.0,,Non-directional importance
+Decision Tree,LIVINGAPARTMENTS_MODE,0.0,,Non-directional importance
+Decision Tree,NONLIVINGAPARTMENTS_MODE,0.0,,Non-directional importance
+Decision Tree,NONLIVINGAREA_MODE,0.0,,Non-directional importance
+Decision Tree,TOTALAREA_MODE,0.0,,Non-directional importance
+Decision Tree,DEF_30_CNT_SOCIAL_CIRCLE,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_2,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_4,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_5,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_6,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_7,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_8,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_9,0.0,,Non-directional importance
+Decision Tree,LANDAREA_AVG,0.0,,Non-directional importance
+Decision Tree,FLOORSMAX_AVG,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_11,0.0,,Non-directional importance
+Decision Tree,COMMONAREA_AVG,0.0,,Non-directional importance
+Decision Tree,OWN_CAR_AGE,0.0,,Non-directional importance
+Decision Tree,FLAG_MOBIL,0.0,,Non-directional importance
+Decision Tree,FLAG_EMP_PHONE,0.0,,Non-directional importance
+Decision Tree,FLAG_WORK_PHONE,0.0,,Non-directional importance
+Decision Tree,FLAG_CONT_MOBILE,0.0,,Non-directional importance
+Decision Tree,FLAG_PHONE,0.0,,Non-directional importance
+Decision Tree,FLAG_EMAIL,0.0,,Non-directional importance
+Decision Tree,CNT_FAM_MEMBERS,0.0,,Non-directional importance
+Decision Tree,REGION_RATING_CLIENT,0.0,,Non-directional importance
+Decision Tree,REGION_RATING_CLIENT_W_CITY,0.0,,Non-directional importance
+Decision Tree,HOUR_APPR_PROCESS_START,0.0,,Non-directional importance
+Decision Tree,REG_REGION_NOT_LIVE_REGION,0.0,,Non-directional importance
+Decision Tree,REG_REGION_NOT_WORK_REGION,0.0,,Non-directional importance
+Decision Tree,LIVE_REGION_NOT_WORK_REGION,0.0,,Non-directional importance
+Decision Tree,REG_CITY_NOT_LIVE_CITY,0.0,,Non-directional importance
+Decision Tree,REG_CITY_NOT_WORK_CITY,0.0,,Non-directional importance
+Decision Tree,LIVE_CITY_NOT_WORK_CITY,0.0,,Non-directional importance
+Decision Tree,APARTMENTS_AVG,0.0,,Non-directional importance
+Decision Tree,BASEMENTAREA_AVG,0.0,,Non-directional importance
+Decision Tree,YEARS_BEGINEXPLUATATION_AVG,0.0,,Non-directional importance
+Decision Tree,YEARS_BUILD_AVG,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_10,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_12,0.0,,Non-directional importance
+Decision Tree,NAME_HOUSING_TYPE_Rented apartment,0.0,,Non-directional importance
+Decision Tree,NAME_TYPE_SUITE_Other_B,0.0,,Non-directional importance
+Decision Tree,NAME_TYPE_SUITE_Unaccompanied,0.0,,Non-directional importance
+Decision Tree,NAME_INCOME_TYPE_Businessman,0.0,,Non-directional importance
+Decision Tree,NAME_INCOME_TYPE_Commercial associate,0.0,,Non-directional importance
+Decision Tree,NAME_INCOME_TYPE_Maternity leave,0.0,,Non-directional importance
+Decision Tree,NAME_INCOME_TYPE_Pensioner,0.0,,Non-directional importance
+Decision Tree,NAME_INCOME_TYPE_State servant,0.0,,Non-directional importance
+Decision Tree,NAME_INCOME_TYPE_Student,0.0,,Non-directional importance
+Decision Tree,NAME_INCOME_TYPE_Unemployed,0.0,,Non-directional importance
+Decision Tree,NAME_INCOME_TYPE_Working,0.0,,Non-directional importance
+Decision Tree,NAME_EDUCATION_TYPE_Incomplete higher,0.0,,Non-directional importance
+Decision Tree,NAME_EDUCATION_TYPE_Lower secondary,0.0,,Non-directional importance
+Decision Tree,NAME_FAMILY_STATUS_Civil marriage,0.0,,Non-directional importance
+Decision Tree,NAME_FAMILY_STATUS_Married,0.0,,Non-directional importance
+Decision Tree,NAME_FAMILY_STATUS_Separated,0.0,,Non-directional importance
+Decision Tree,NAME_FAMILY_STATUS_Single / not married,0.0,,Non-directional importance
+Decision Tree,NAME_FAMILY_STATUS_Unknown,0.0,,Non-directional importance
+Decision Tree,NAME_FAMILY_STATUS_Widow,0.0,,Non-directional importance
+Decision Tree,NAME_HOUSING_TYPE_Co-op apartment,0.0,,Non-directional importance
+Decision Tree,NAME_HOUSING_TYPE_House / apartment,0.0,,Non-directional importance
+Decision Tree,NAME_HOUSING_TYPE_Municipal apartment,0.0,,Non-directional importance
+Decision Tree,NAME_HOUSING_TYPE_Office apartment,0.0,,Non-directional importance
+Decision Tree,"NAME_TYPE_SUITE_Spouse, partner",0.0,,Non-directional importance
+Decision Tree,NAME_TYPE_SUITE_Other_A,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_13,0.0,,Non-directional importance
+Decision Tree,NAME_TYPE_SUITE_Group of people,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_14,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_15,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_16,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_17,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_18,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_19,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_20,0.0,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_21,0.0,,Non-directional importance
+Decision Tree,AMT_REQ_CREDIT_BUREAU_HOUR,0.0,,Non-directional importance
+Decision Tree,AMT_REQ_CREDIT_BUREAU_DAY,0.0,,Non-directional importance
+Decision Tree,AMT_REQ_CREDIT_BUREAU_WEEK,0.0,,Non-directional importance
+Decision Tree,AMT_REQ_CREDIT_BUREAU_MON,0.0,,Non-directional importance
+Decision Tree,AMT_REQ_CREDIT_BUREAU_QRT,0.0,,Non-directional importance
+Decision Tree,NAME_CONTRACT_TYPE_Cash loans,0.0,,Non-directional importance
+Decision Tree,NAME_CONTRACT_TYPE_Revolving loans,0.0,,Non-directional importance
+Decision Tree,CODE_GENDER_XNA,0.0,,Non-directional importance
+Decision Tree,FLAG_OWN_CAR_Y,0.0,,Non-directional importance
+Decision Tree,FLAG_OWN_REALTY_N,0.0,,Non-directional importance
+Decision Tree,FLAG_OWN_REALTY_Y,0.0,,Non-directional importance
+Decision Tree,NAME_TYPE_SUITE_Children,0.0,,Non-directional importance
+Decision Tree,NAME_TYPE_SUITE_Family,0.0,,Non-directional importance
+Decision Tree,EMERGENCYSTATE_MODE_Yes,0.0,,Non-directional importance

@@ -1,0 +1,233 @@
+Model,Feature,Importance,SignedValue,Direction
+LightGBM,PAYMENT_RATE,508,,Non-directional importance
+LightGBM,CREDIT_ANNUITY_RATIO,487,,Non-directional importance
+LightGBM,EXT_SOURCE_2,470,,Non-directional importance
+LightGBM,EXT_SOURCE_3,440,,Non-directional importance
+LightGBM,EXT_SOURCE_1,414,,Non-directional importance
+LightGBM,DAYS_BIRTH,389,,Non-directional importance
+LightGBM,DAYS_ID_PUBLISH,294,,Non-directional importance
+LightGBM,AMT_ANNUITY,287,,Non-directional importance
+LightGBM,AMT_CREDIT,276,,Non-directional importance
+LightGBM,DAYS_LAST_PHONE_CHANGE,269,,Non-directional importance
+LightGBM,GOODS_CREDIT_RATIO,254,,Non-directional importance
+LightGBM,DAYS_EMPLOYED,241,,Non-directional importance
+LightGBM,DAYS_REGISTRATION,223,,Non-directional importance
+LightGBM,EMPLOYED_BIRTH_RATIO,223,,Non-directional importance
+LightGBM,ANNUITY_INCOME_RATIO,205,,Non-directional importance
+LightGBM,CREDIT_INCOME_RATIO,183,,Non-directional importance
+LightGBM,REGION_POPULATION_RELATIVE,165,,Non-directional importance
+LightGBM,INCOME_PER_PERSON,122,,Non-directional importance
+LightGBM,OWN_CAR_AGE,119,,Non-directional importance
+LightGBM,AMT_REQ_CREDIT_BUREAU_YEAR,110,,Non-directional importance
+LightGBM,AMT_INCOME_TOTAL,103,,Non-directional importance
+LightGBM,HOUR_APPR_PROCESS_START,90,,Non-directional importance
+LightGBM,COMMONAREA_AVG,88,,Non-directional importance
+LightGBM,LIVINGAREA_MODE,85,,Non-directional importance
+LightGBM,YEARS_BEGINEXPLUATATION_MODE,84,,Non-directional importance
+LightGBM,CODE_GENDER_F,83,,Non-directional importance
+LightGBM,BASEMENTAREA_MODE,80,,Non-directional importance
+LightGBM,YEARS_BUILD_AVG,77,,Non-directional importance
+LightGBM,LIVINGAREA_AVG,75,,Non-directional importance
+LightGBM,LANDAREA_MODE,74,,Non-directional importance
+LightGBM,TOTALAREA_MODE,73,,Non-directional importance
+LightGBM,APARTMENTS_AVG,72,,Non-directional importance
+LightGBM,REGION_RATING_CLIENT_W_CITY,69,,Non-directional importance
+LightGBM,APARTMENTS_MODE,68,,Non-directional importance
+LightGBM,NONLIVINGAREA_AVG,68,,Non-directional importance
+LightGBM,OBS_30_CNT_SOCIAL_CIRCLE,66,,Non-directional importance
+LightGBM,NAME_EDUCATION_TYPE_Higher education,65,,Non-directional importance
+LightGBM,BASEMENTAREA_AVG,63,,Non-directional importance
+LightGBM,AMT_REQ_CREDIT_BUREAU_QRT,61,,Non-directional importance
+LightGBM,LANDAREA_AVG,61,,Non-directional importance
+LightGBM,YEARS_BEGINEXPLUATATION_AVG,60,,Non-directional importance
+LightGBM,NONLIVINGAREA_MODE,58,,Non-directional importance
+LightGBM,COMMONAREA_MODE,53,,Non-directional importance
+LightGBM,FLAG_OWN_CAR_N,52,,Non-directional importance
+LightGBM,DEF_30_CNT_SOCIAL_CIRCLE,51,,Non-directional importance
+LightGBM,NAME_FAMILY_STATUS_Married,50,,Non-directional importance
+LightGBM,FLAG_WORK_PHONE,48,,Non-directional importance
+LightGBM,LIVINGAPARTMENTS_MODE,45,,Non-directional importance
+LightGBM,NAME_CONTRACT_TYPE_Cash loans,42,,Non-directional importance
+LightGBM,LIVINGAPARTMENTS_AVG,41,,Non-directional importance
+LightGBM,FLOORSMAX_AVG,41,,Non-directional importance
+LightGBM,FLOORSMIN_AVG,41,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_3,35,,Non-directional importance
+LightGBM,DEF_60_CNT_SOCIAL_CIRCLE,35,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Self-employed,35,,Non-directional importance
+LightGBM,CODE_GENDER_M,34,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Construction,33,,Non-directional importance
+LightGBM,NAME_EDUCATION_TYPE_Secondary / secondary special,32,,Non-directional importance
+LightGBM,ENTRANCES_AVG,32,,Non-directional importance
+LightGBM,REG_CITY_NOT_LIVE_CITY,31,,Non-directional importance
+LightGBM,REGION_RATING_CLIENT,30,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Core staff,28,,Non-directional importance
+LightGBM,ENTRANCES_MODE,28,,Non-directional importance
+LightGBM,NONLIVINGAPARTMENTS_MODE,26,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Military,26,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Transport: type 3,26,,Non-directional importance
+LightGBM,AMT_REQ_CREDIT_BUREAU_MON,26,,Non-directional importance
+LightGBM,ELEVATORS_AVG,25,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Trade: type 2,23,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Accountants,23,,Non-directional importance
+LightGBM,NAME_INCOME_TYPE_State servant,21,,Non-directional importance
+LightGBM,FLAG_OWN_CAR_Y,21,,Non-directional importance
+LightGBM,NAME_INCOME_TYPE_Working,20,,Non-directional importance
+LightGBM,WEEKDAY_APPR_PROCESS_START_SATURDAY,19,,Non-directional importance
+LightGBM,NONLIVINGAPARTMENTS_AVG,19,,Non-directional importance
+LightGBM,CNT_FAM_MEMBERS,18,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Realtor,18,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 9,18,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Security Ministries,18,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Low-skill Laborers,16,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_13,15,,Non-directional importance
+LightGBM,FONDKAPREMONT_MODE_reg oper account,14,,Non-directional importance
+LightGBM,FLAG_OWN_REALTY_N,14,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_School,13,,Non-directional importance
+LightGBM,FLAG_PHONE,12,,Non-directional importance
+LightGBM,NAME_HOUSING_TYPE_House / apartment,12,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_18,12,,Non-directional importance
+LightGBM,"WALLSMATERIAL_MODE_Stone, brick",12,,Non-directional importance
+LightGBM,NAME_HOUSING_TYPE_Office apartment,12,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Kindergarten,11,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_8,11,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_15,11,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_16,11,,Non-directional importance
+LightGBM,NAME_TYPE_SUITE_Unaccompanied,11,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_High skill tech staff,11,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Business Entity Type 3,10,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Other,9,,Non-directional importance
+LightGBM,CNT_CHILDREN,9,,Non-directional importance
+LightGBM,AMT_REQ_CREDIT_BUREAU_WEEK,9,,Non-directional importance
+LightGBM,WEEKDAY_APPR_PROCESS_START_MONDAY,8,,Non-directional importance
+LightGBM,NAME_TYPE_SUITE_Family,8,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Transport: type 4,8,,Non-directional importance
+LightGBM,ELEVATORS_MODE,8,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Legal Services,8,,Non-directional importance
+LightGBM,WEEKDAY_APPR_PROCESS_START_WEDNESDAY,8,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Trade: type 6,7,,Non-directional importance
+LightGBM,AMT_REQ_CREDIT_BUREAU_DAY,7,,Non-directional importance
+LightGBM,WALLSMATERIAL_MODE_Panel,7,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Laborers,7,,Non-directional importance
+LightGBM,NAME_EDUCATION_TYPE_Incomplete higher,7,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_11,7,,Non-directional importance
+LightGBM,NAME_FAMILY_STATUS_Single / not married,6,,Non-directional importance
+LightGBM,NAME_HOUSING_TYPE_Rented apartment,6,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Transport: type 2,6,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Bank,6,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Drivers,6,,Non-directional importance
+LightGBM,WEEKDAY_APPR_PROCESS_START_FRIDAY,6,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Managers,5,,Non-directional importance
+LightGBM,WEEKDAY_APPR_PROCESS_START_TUESDAY,4,,Non-directional importance
+LightGBM,WALLSMATERIAL_MODE_Block,4,,Non-directional importance
+LightGBM,FLAG_EMAIL,4,,Non-directional importance
+LightGBM,FLAG_OWN_REALTY_Y,4,,Non-directional importance
+LightGBM,NAME_CONTRACT_TYPE_Revolving loans,4,,Non-directional importance
+LightGBM,LIVE_CITY_NOT_WORK_CITY,4,,Non-directional importance
+LightGBM,REG_CITY_NOT_WORK_CITY,4,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Medicine staff,4,,Non-directional importance
+LightGBM,"NAME_TYPE_SUITE_Spouse, partner",4,,Non-directional importance
+LightGBM,NAME_INCOME_TYPE_Commercial associate,4,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Sales staff,4,,Non-directional importance
+LightGBM,WEEKDAY_APPR_PROCESS_START_THURSDAY,3,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_5,3,,Non-directional importance
+LightGBM,NAME_FAMILY_STATUS_Widow,3,,Non-directional importance
+LightGBM,NAME_HOUSING_TYPE_Municipal apartment,3,,Non-directional importance
+LightGBM,NAME_TYPE_SUITE_Children,3,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Government,3,,Non-directional importance
+LightGBM,WEEKDAY_APPR_PROCESS_START_SUNDAY,3,,Non-directional importance
+LightGBM,NAME_INCOME_TYPE_Pensioner,3,,Non-directional importance
+LightGBM,NAME_FAMILY_STATUS_Separated,3,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_14,3,,Non-directional importance
+LightGBM,NAME_FAMILY_STATUS_Civil marriage,3,,Non-directional importance
+LightGBM,FONDKAPREMONT_MODE_not specified,3,,Non-directional importance
+LightGBM,NAME_EDUCATION_TYPE_Lower secondary,3,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Police,2,,Non-directional importance
+LightGBM,FONDKAPREMONT_MODE_reg oper spec account,2,,Non-directional importance
+LightGBM,FLAG_EMP_PHONE,2,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 7,2,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Business Entity Type 2,2,,Non-directional importance
+LightGBM,REG_REGION_NOT_WORK_REGION,1,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 11,1,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Housing,1,,Non-directional importance
+LightGBM,EMERGENCYSTATE_MODE_No,1,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 3,1,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Postal,1,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Medicine,1,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_XNA,1,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Security,1,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Private service staff,1,,Non-directional importance
+LightGBM,FONDKAPREMONT_MODE_org spec account,1,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Telecom,1,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Services,1,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_6,1,,Non-directional importance
+LightGBM,WALLSMATERIAL_MODE_Monolithic,1,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Religion,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Restaurant,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 8,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_University,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 6,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Insurance,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Transport: type 1,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Trade: type 7,0,,Non-directional importance
+LightGBM,HOUSETYPE_MODE_block of flats,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Trade: type 5,0,,Non-directional importance
+LightGBM,WALLSMATERIAL_MODE_Wooden,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Trade: type 4,0,,Non-directional importance
+LightGBM,WALLSMATERIAL_MODE_Others,0,,Non-directional importance
+LightGBM,HOUSETYPE_MODE_specific housing,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Trade: type 3,0,,Non-directional importance
+LightGBM,HOUSETYPE_MODE_terraced house,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Trade: type 1,0,,Non-directional importance
+LightGBM,WALLSMATERIAL_MODE_Mixed,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Mobile,0,,Non-directional importance
+LightGBM,NAME_EDUCATION_TYPE_Academic degree,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 5,0,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_19,0,,Non-directional importance
+LightGBM,NAME_INCOME_TYPE_Student,0,,Non-directional importance
+LightGBM,NAME_INCOME_TYPE_Maternity leave,0,,Non-directional importance
+LightGBM,NAME_INCOME_TYPE_Businessman,0,,Non-directional importance
+LightGBM,NAME_TYPE_SUITE_Other_B,0,,Non-directional importance
+LightGBM,NAME_TYPE_SUITE_Other_A,0,,Non-directional importance
+LightGBM,NAME_TYPE_SUITE_Group of people,0,,Non-directional importance
+LightGBM,CODE_GENDER_XNA,0,,Non-directional importance
+LightGBM,AMT_REQ_CREDIT_BUREAU_HOUR,0,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_21,0,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_20,0,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_17,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 4,0,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_12,0,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_10,0,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_9,0,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_7,0,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_4,0,,Non-directional importance
+LightGBM,FLAG_DOCUMENT_2,0,,Non-directional importance
+LightGBM,LIVE_REGION_NOT_WORK_REGION,0,,Non-directional importance
+LightGBM,REG_REGION_NOT_LIVE_REGION,0,,Non-directional importance
+LightGBM,FLAG_CONT_MOBILE,0,,Non-directional importance
+LightGBM,FLAG_MOBIL,0,,Non-directional importance
+LightGBM,NAME_INCOME_TYPE_Unemployed,0,,Non-directional importance
+LightGBM,NAME_FAMILY_STATUS_Unknown,0,,Non-directional importance
+LightGBM,NAME_HOUSING_TYPE_Co-op apartment,0,,Non-directional importance
+LightGBM,NAME_HOUSING_TYPE_With parents,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 2,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 13,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 12,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 10,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Industry: type 1,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Hotel,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Emergency,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Electricity,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Culture,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Cleaning,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Business Entity Type 1,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Agriculture,0,,Non-directional importance
+LightGBM,ORGANIZATION_TYPE_Advertising,0,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Waiters/barmen staff,0,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Security staff,0,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Secretaries,0,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Realty agents,0,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_IT staff,0,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_HR staff,0,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Cooking staff,0,,Non-directional importance
+LightGBM,OCCUPATION_TYPE_Cleaning staff,0,,Non-directional importance
+LightGBM,EMERGENCYSTATE_MODE_Yes,0,,Non-directional importance

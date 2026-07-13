@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.debug.executed.ipynb
+tmp/
+
+# Kaggle data is not redistributed in this repository.
+data/application_train.csv
+data/application_test.csv
+data/bureau*.csv
+data/previous_application.csv
+data/installments_payments.csv
+data/POS_CASH_balance.csv
+data/credit_card_balance.csv

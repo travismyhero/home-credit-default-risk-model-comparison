@@ -1,0 +1,4 @@
+file,available,planned_join_key,status
+bureau.csv,False,SK_ID_CURR,not_available_in_current_data_dir
+previous_application.csv,False,SK_ID_CURR,not_available_in_current_data_dir
+installments_payments.csv,False,SK_ID_CURR,not_available_in_current_data_dir

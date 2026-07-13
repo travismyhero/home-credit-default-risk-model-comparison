@@ -1,0 +1,6 @@
+Model,PrimaryStrength,PrimaryLimitation
+Logistic Regression,"Interpretable, fast, and easy to deploy",Limited linear and interaction capacity
+Decision Tree,Intuitive rules and nonlinear relationships,High variance and prone to overfitting
+Random Forest,Stable bagging model that captures interactions,Larger model with higher interpretation cost
+XGBoost,Strong tabular discrimination and regularization,Higher tuning and deployment complexity
+LightGBM,"Strong speed, memory, and performance balance",Leaf-wise growth requires overfit controls

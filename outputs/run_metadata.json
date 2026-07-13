@@ -1,0 +1,21 @@
+{
+  "random_state": 42,
+  "debug_mode": false,
+  "source_rows": 307511,
+  "source_columns": 122,
+  "selected_raw_features": 108,
+  "encoded_features": 232,
+  "cv_folds": 5,
+  "tuning_sample_size": 60000,
+  "library_versions": {
+    "python": "3.13.11",
+    "pandas": "2.3.3",
+    "numpy": "2.4.2",
+    "matplotlib": "3.10.8",
+    "scikit-learn": "1.8.0",
+    "xgboost": "2.1.4",
+    "lightgbm": "4.6.0",
+    "joblib": "1.5.3",
+    "nbformat": "5.10.4"
+  }
+}
