@@ -8,37 +8,44 @@ This repository contains a reproducible credit-risk classification project based
 - XGBoost
 - LightGBM
 
-The workflow covers data audit, leakage-safe preprocessing, business feature engineering, feature selection, hyperparameter tuning, validation-only threshold selection, test evaluation, calibration, risk deciles, interpretability, and reproducible reporting.
+The workflow covers data audit, training-fitted preprocessing, business feature engineering, limited parameter screening, final refitting, probability calibration, threshold selection, statistical uncertainty, segment diagnostics, random-split PSI, risk deciles, and illustrative cost sensitivity.
 
 ## Final Report
 
 [Download the formal final report (PDF)](outputs/home_credit_model_comparison_report_formal.pdf)
 
 The supplementary Markdown report is available at [outputs/model_comparison_report.md](outputs/model_comparison_report.md).
-The formal PDF, its English figures, and the retained LaTeX source can be rebuilt with:
+The formal PDF and its English figures can be rebuilt from the current CSV and JSON evidence with:
 
 ```bash
 python generate_home_credit_report_formal.py
 ```
 
-This command requires XeLaTeX in addition to the Python dependencies.
+The report uses ReportLab and does not require a separate LaTeX installation.
 
 ## Notebooks
 
 - [Source notebook](home_credit_model_comparison.ipynb): clean, sequentially runnable notebook.
 - [Executed notebook](home_credit_model_comparison.executed.ipynb): full-data run with outputs.
 
-## Main Results
+## Evidence Produced
 
-| Model | Test AUC | KS | PR-AUC | F1 |
-| --- | ---: | ---: | ---: | ---: |
-| XGBoost | 0.7716 | 0.4072 | 0.2587 | 0.3184 |
-| LightGBM | 0.7702 | 0.4064 | 0.2555 | 0.3168 |
-| Logistic Regression | 0.7553 | 0.3790 | 0.2314 | 0.2987 |
-| Random Forest | 0.7538 | 0.3802 | 0.2290 | 0.2984 |
-| Decision Tree | 0.7231 | 0.3247 | 0.2010 | 0.2745 |
+The current run is recorded in machine-readable files rather than duplicated as fixed numbers in this README:
 
-The full experiment uses 307,511 observations, retains 108 raw/engineered features after training-only selection, and produces 232 encoded model features. The `outputs/` directory contains model artifacts, result tables, calibration and decile analyses, and 70 figures.
+- [Final model metrics](outputs/model_metrics.csv)
+- [Bootstrap metric intervals](outputs/bootstrap_metric_intervals.csv)
+- [Paired AUC bootstrap differences](outputs/paired_bootstrap_auc_differences.csv)
+- [DeLong AUC test](outputs/delong_auc_test.csv)
+- [Calibration diagnostics](outputs/calibration_diagnostics.csv)
+- [Customer-segment performance](outputs/segment_performance.csv)
+- [Random-split PSI](outputs/random_split_psi.csv)
+- [Illustrative cost sensitivity](outputs/cost_sensitivity.csv)
+
+Training, model-selection, calibration, threshold, and final-test samples are mutually exclusive. Boosted models use early stopping only during candidate screening; the selected iteration count is then fitted on the complete training partition so that reported training time has the same definition across model families. LightGBM row sampling is activated explicitly with `subsample_freq=1`.
+
+## Evidence Limits
+
+This is a development benchmark on a public application table, not a production model validation. The data lacks a reliable booking timestamp, rejected-applicant outcomes, long-run portfolio default rates, and lender-specific LGD, EAD, revenue, funding-cost, and capital inputs. The repository therefore does not claim out-of-time stability, reject inference, through-the-cycle PD calibration, expected-loss optimization, or regulatory capital impact. Historical bureau and repayment-table aggregation is not implemented.
 
 ## Data
 
@@ -62,7 +69,7 @@ For a quick end-to-end validation:
 HOME_CREDIT_DEBUG=1 jupyter nbconvert \
   --to notebook --execute home_credit_model_comparison.ipynb \
   --output home_credit_model_comparison.debug.executed.ipynb \
-  --ExecutePreprocessor.timeout=3600
+  --ExecutePreprocessor.timeout=7200
 ```
 
 Run the source notebook normally for the complete experiment.

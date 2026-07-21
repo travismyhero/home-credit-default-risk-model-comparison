@@ -1,137 +1,137 @@
 Model,Feature,Importance,SignedValue,Direction
-Random Forest,EXT_SOURCE_2,0.140416105482643,,Non-directional importance
-Random Forest,EXT_SOURCE_3,0.136518078020098,,Non-directional importance
-Random Forest,EXT_SOURCE_1,0.0462552004566665,,Non-directional importance
-Random Forest,DAYS_EMPLOYED,0.0384660581362528,,Non-directional importance
-Random Forest,PAYMENT_RATE,0.034133187706082,,Non-directional importance
+Random Forest,EXT_SOURCE_2,0.14041610548264305,,Non-directional importance
+Random Forest,EXT_SOURCE_3,0.13651807802009808,,Non-directional importance
+Random Forest,EXT_SOURCE_1,0.04625520045666657,,Non-directional importance
+Random Forest,DAYS_EMPLOYED,0.038466058136252895,,Non-directional importance
+Random Forest,PAYMENT_RATE,0.03413318770608203,,Non-directional importance
 Random Forest,DAYS_BIRTH,0.0337079426587463,,Non-directional importance
-Random Forest,GOODS_CREDIT_RATIO,0.0333934909667461,,Non-directional importance
-Random Forest,CREDIT_ANNUITY_RATIO,0.0325235794577014,,Non-directional importance
-Random Forest,EMPLOYED_BIRTH_RATIO,0.0293396337202999,,Non-directional importance
-Random Forest,DAYS_LAST_PHONE_CHANGE,0.0242258784544739,,Non-directional importance
-Random Forest,DAYS_ID_PUBLISH,0.0219683920027556,,Non-directional importance
-Random Forest,AMT_CREDIT,0.0208316492441174,,Non-directional importance
-Random Forest,AMT_ANNUITY,0.0194359103909513,,Non-directional importance
-Random Forest,DAYS_REGISTRATION,0.0174450036164003,,Non-directional importance
-Random Forest,CREDIT_INCOME_RATIO,0.0164874708830776,,Non-directional importance
-Random Forest,ANNUITY_INCOME_RATIO,0.0156646550158209,,Non-directional importance
-Random Forest,REGION_POPULATION_RELATIVE,0.0142192730564906,,Non-directional importance
-Random Forest,NAME_EDUCATION_TYPE_Higher education,0.0131276834170316,,Non-directional importance
-Random Forest,INCOME_PER_PERSON,0.0107160497686322,,Non-directional importance
-Random Forest,AMT_INCOME_TOTAL,0.01056950799329,,Non-directional importance
-Random Forest,CODE_GENDER_F,0.0103857417498615,,Non-directional importance
-Random Forest,OWN_CAR_AGE,0.0092604340744603,,Non-directional importance
-Random Forest,TOTALAREA_MODE,0.0088390419370815,,Non-directional importance
-Random Forest,CODE_GENDER_M,0.0081160230254032,,Non-directional importance
+Random Forest,GOODS_CREDIT_RATIO,0.033393490966746174,,Non-directional importance
+Random Forest,CREDIT_ANNUITY_RATIO,0.032523579457701415,,Non-directional importance
+Random Forest,EMPLOYED_BIRTH_RATIO,0.029339633720299997,,Non-directional importance
+Random Forest,DAYS_LAST_PHONE_CHANGE,0.02422587845447399,,Non-directional importance
+Random Forest,DAYS_ID_PUBLISH,0.02196839200275569,,Non-directional importance
+Random Forest,AMT_CREDIT,0.020831649244117456,,Non-directional importance
+Random Forest,AMT_ANNUITY,0.01943591039095139,,Non-directional importance
+Random Forest,DAYS_REGISTRATION,0.017445003616400303,,Non-directional importance
+Random Forest,CREDIT_INCOME_RATIO,0.016487470883077657,,Non-directional importance
+Random Forest,ANNUITY_INCOME_RATIO,0.015664655015820917,,Non-directional importance
+Random Forest,REGION_POPULATION_RELATIVE,0.014219273056490662,,Non-directional importance
+Random Forest,NAME_EDUCATION_TYPE_Higher education,0.01312768341703166,,Non-directional importance
+Random Forest,INCOME_PER_PERSON,0.01071604976863222,,Non-directional importance
+Random Forest,AMT_INCOME_TOTAL,0.01056950799329008,,Non-directional importance
+Random Forest,CODE_GENDER_F,0.01038574174986153,,Non-directional importance
+Random Forest,OWN_CAR_AGE,0.009260434074460375,,Non-directional importance
+Random Forest,TOTALAREA_MODE,0.008839041937081505,,Non-directional importance
+Random Forest,CODE_GENDER_M,0.00811602302540326,,Non-directional importance
 Random Forest,REGION_RATING_CLIENT_W_CITY,0.0080554234114948,,Non-directional importance
-Random Forest,HOUR_APPR_PROCESS_START,0.0080503912520651,,Non-directional importance
-Random Forest,LIVINGAREA_MODE,0.0079117284061183,,Non-directional importance
-Random Forest,LIVINGAREA_AVG,0.0077456122863869,,Non-directional importance
-Random Forest,NAME_EDUCATION_TYPE_Secondary / secondary special,0.0074047938194434,,Non-directional importance
-Random Forest,YEARS_BEGINEXPLUATATION_MODE,0.0070667075669485,,Non-directional importance
-Random Forest,YEARS_BEGINEXPLUATATION_AVG,0.0068227856995655,,Non-directional importance
-Random Forest,REGION_RATING_CLIENT,0.006662393922217,,Non-directional importance
-Random Forest,FLAG_DOCUMENT_3,0.0065485363578458,,Non-directional importance
-Random Forest,APARTMENTS_AVG,0.0065480737796966,,Non-directional importance
-Random Forest,APARTMENTS_MODE,0.0063123244295678,,Non-directional importance
-Random Forest,NAME_INCOME_TYPE_Working,0.0061261832849876,,Non-directional importance
-Random Forest,LANDAREA_AVG,0.0060395203626797,,Non-directional importance
-Random Forest,BASEMENTAREA_AVG,0.0059420538815673,,Non-directional importance
-Random Forest,BASEMENTAREA_MODE,0.0059037579229309,,Non-directional importance
-Random Forest,LANDAREA_MODE,0.0058603388932587,,Non-directional importance
-Random Forest,AMT_REQ_CREDIT_BUREAU_YEAR,0.0058101620679642,,Non-directional importance
-Random Forest,NONLIVINGAREA_AVG,0.0051901645432067,,Non-directional importance
-Random Forest,OBS_30_CNT_SOCIAL_CIRCLE,0.0051052513495274,,Non-directional importance
-Random Forest,NONLIVINGAREA_MODE,0.0047585010557963,,Non-directional importance
-Random Forest,COMMONAREA_MODE,0.0044082398461267,,Non-directional importance
-Random Forest,COMMONAREA_AVG,0.0043533518283093,,Non-directional importance
-Random Forest,YEARS_BUILD_AVG,0.0043394266862098,,Non-directional importance
-Random Forest,LIVINGAPARTMENTS_AVG,0.0040568734161799,,Non-directional importance
-Random Forest,REG_CITY_NOT_WORK_CITY,0.0037457029496499,,Non-directional importance
-Random Forest,LIVINGAPARTMENTS_MODE,0.0037408592930091,,Non-directional importance
-Random Forest,FLOORSMAX_AVG,0.0037281064822012,,Non-directional importance
-Random Forest,NAME_INCOME_TYPE_Pensioner,0.0036297645579384,,Non-directional importance
-Random Forest,ELEVATORS_AVG,0.0036148297007602,,Non-directional importance
-Random Forest,ENTRANCES_AVG,0.0033779119935385,,Non-directional importance
-Random Forest,FLAG_OWN_CAR_N,0.0032430654911255,,Non-directional importance
-Random Forest,CNT_FAM_MEMBERS,0.0031560562246408,,Non-directional importance
-Random Forest,FLAG_OWN_CAR_Y,0.003080610857398,,Non-directional importance
-Random Forest,NAME_CONTRACT_TYPE_Revolving loans,0.0029702707565796,,Non-directional importance
-Random Forest,NAME_CONTRACT_TYPE_Cash loans,0.002905802762574,,Non-directional importance
-Random Forest,FLAG_EMP_PHONE,0.0028785471129998,,Non-directional importance
-Random Forest,NAME_FAMILY_STATUS_Married,0.0028736121224912,,Non-directional importance
-Random Forest,ENTRANCES_MODE,0.0027444152615003,,Non-directional importance
-Random Forest,ORGANIZATION_TYPE_XNA,0.0025738151171209,,Non-directional importance
-Random Forest,ELEVATORS_MODE,0.0024313821524326,,Non-directional importance
-Random Forest,CNT_CHILDREN,0.0022670579101539,,Non-directional importance
-Random Forest,REG_CITY_NOT_LIVE_CITY,0.0022626685121085,,Non-directional importance
-Random Forest,DEF_30_CNT_SOCIAL_CIRCLE,0.002171385019728,,Non-directional importance
-Random Forest,FLOORSMIN_AVG,0.0019499270756571,,Non-directional importance
-Random Forest,FLAG_PHONE,0.0018938814698165,,Non-directional importance
-Random Forest,OCCUPATION_TYPE_Laborers,0.0018580851674459,,Non-directional importance
-Random Forest,FLAG_WORK_PHONE,0.0018111239064602,,Non-directional importance
-Random Forest,AMT_REQ_CREDIT_BUREAU_QRT,0.0017746404745628,,Non-directional importance
-Random Forest,FLAG_OWN_REALTY_N,0.0017249490437501,,Non-directional importance
-Random Forest,FLAG_OWN_REALTY_Y,0.0016879574111,,Non-directional importance
-Random Forest,LIVE_CITY_NOT_WORK_CITY,0.0015009944365845,,Non-directional importance
-Random Forest,ORGANIZATION_TYPE_Business Entity Type 3,0.0014450317695818,,Non-directional importance
-Random Forest,NAME_INCOME_TYPE_Commercial associate,0.0013775754593115,,Non-directional importance
-Random Forest,DEF_60_CNT_SOCIAL_CIRCLE,0.0013488932909957,,Non-directional importance
-Random Forest,ORGANIZATION_TYPE_Self-employed,0.0013381117587437,,Non-directional importance
-Random Forest,NAME_FAMILY_STATUS_Single / not married,0.0013108654842938,,Non-directional importance
-Random Forest,NONLIVINGAPARTMENTS_AVG,0.0012799292234569,,Non-directional importance
-Random Forest,AMT_REQ_CREDIT_BUREAU_MON,0.0011854342819149,,Non-directional importance
-Random Forest,WALLSMATERIAL_MODE_Panel,0.001171334810167,,Non-directional importance
-Random Forest,NAME_TYPE_SUITE_Unaccompanied,0.0011192162101203,,Non-directional importance
-Random Forest,WEEKDAY_APPR_PROCESS_START_TUESDAY,0.0010824216838949,,Non-directional importance
-Random Forest,NAME_HOUSING_TYPE_House / apartment,0.0010783445220492,,Non-directional importance
-Random Forest,OCCUPATION_TYPE_Sales staff,0.0010514212389668,,Non-directional importance
-Random Forest,WEEKDAY_APPR_PROCESS_START_FRIDAY,0.0010468807114011,,Non-directional importance
-Random Forest,"WALLSMATERIAL_MODE_Stone, brick",0.0009990905807498,,Non-directional importance
-Random Forest,WEEKDAY_APPR_PROCESS_START_WEDNESDAY,0.0009941818934825,,Non-directional importance
-Random Forest,WEEKDAY_APPR_PROCESS_START_THURSDAY,0.000992838664072,,Non-directional importance
-Random Forest,WEEKDAY_APPR_PROCESS_START_MONDAY,0.0009852556767979,,Non-directional importance
-Random Forest,NONLIVINGAPARTMENTS_MODE,0.000981098254586,,Non-directional importance
-Random Forest,OCCUPATION_TYPE_Core staff,0.0009003162448974,,Non-directional importance
-Random Forest,NAME_INCOME_TYPE_State servant,0.0008362518253211,,Non-directional importance
-Random Forest,NAME_TYPE_SUITE_Family,0.0008295968873261,,Non-directional importance
-Random Forest,OCCUPATION_TYPE_Accountants,0.0007857294434405,,Non-directional importance
-Random Forest,FLAG_DOCUMENT_8,0.0007608983913863,,Non-directional importance
-Random Forest,OCCUPATION_TYPE_Drivers,0.0007226464849884,,Non-directional importance
-Random Forest,WEEKDAY_APPR_PROCESS_START_SATURDAY,0.0006822454929785,,Non-directional importance
-Random Forest,NAME_FAMILY_STATUS_Civil marriage,0.0006822294528939,,Non-directional importance
-Random Forest,OCCUPATION_TYPE_Managers,0.0005569226315244,,Non-directional importance
-Random Forest,FLAG_DOCUMENT_6,0.0005173261433501,,Non-directional importance
-Random Forest,NAME_FAMILY_STATUS_Widow,0.0004820493383193,,Non-directional importance
-Random Forest,NAME_HOUSING_TYPE_With parents,0.000466122821981,,Non-directional importance
-Random Forest,FONDKAPREMONT_MODE_reg oper account,0.0003865359924672,,Non-directional importance
-Random Forest,ORGANIZATION_TYPE_Construction,0.0003804343931101,,Non-directional importance
-Random Forest,NAME_FAMILY_STATUS_Separated,0.0003643123548909,,Non-directional importance
-Random Forest,ORGANIZATION_TYPE_Other,0.0003400177893501,,Non-directional importance
-Random Forest,REG_REGION_NOT_WORK_REGION,0.0003339542076196,,Non-directional importance
-Random Forest,FLAG_EMAIL,0.0002707489654873,,Non-directional importance
-Random Forest,NAME_EDUCATION_TYPE_Incomplete higher,0.0002444480832859,,Non-directional importance
-Random Forest,ORGANIZATION_TYPE_School,0.000241944337014,,Non-directional importance
-Random Forest,LIVE_REGION_NOT_WORK_REGION,0.0002073086029899,,Non-directional importance
-Random Forest,OCCUPATION_TYPE_High skill tech staff,0.0002054858149531,,Non-directional importance
-Random Forest,ORGANIZATION_TYPE_Government,0.0001960671694293,,Non-directional importance
-Random Forest,WEEKDAY_APPR_PROCESS_START_SUNDAY,0.0001951716968378,,Non-directional importance
-Random Forest,FONDKAPREMONT_MODE_reg oper spec account,0.000192386643103,,Non-directional importance
-Random Forest,NAME_EDUCATION_TYPE_Lower secondary,0.0001895021697352,,Non-directional importance
-Random Forest,NAME_HOUSING_TYPE_Municipal apartment,0.0001854939812548,,Non-directional importance
-Random Forest,ORGANIZATION_TYPE_Medicine,0.0001804696566517,,Non-directional importance
-Random Forest,OCCUPATION_TYPE_Security staff,0.0001565661407291,,Non-directional importance
-Random Forest,OCCUPATION_TYPE_Medicine staff,0.000154947137855,,Non-directional importance
-Random Forest,"NAME_TYPE_SUITE_Spouse, partner",0.0001535292656217,,Non-directional importance
-Random Forest,WALLSMATERIAL_MODE_Block,0.0001522536149556,,Non-directional importance
-Random Forest,ORGANIZATION_TYPE_Business Entity Type 2,0.0001309243968894,,Non-directional importance
-Random Forest,OCCUPATION_TYPE_Low-skill Laborers,0.000130206508392,,Non-directional importance
-Random Forest,ORGANIZATION_TYPE_Kindergarten,0.0001006957097007,,Non-directional importance
-Random Forest,AMT_REQ_CREDIT_BUREAU_WEEK,9.274535640791336e-05,,Non-directional importance
+Random Forest,HOUR_APPR_PROCESS_START,0.00805039125206516,,Non-directional importance
+Random Forest,LIVINGAREA_MODE,0.007911728406118354,,Non-directional importance
+Random Forest,LIVINGAREA_AVG,0.0077456122863869045,,Non-directional importance
+Random Forest,NAME_EDUCATION_TYPE_Secondary / secondary special,0.0074047938194434495,,Non-directional importance
+Random Forest,YEARS_BEGINEXPLUATATION_MODE,0.007066707566948573,,Non-directional importance
+Random Forest,YEARS_BEGINEXPLUATATION_AVG,0.006822785699565547,,Non-directional importance
+Random Forest,REGION_RATING_CLIENT,0.006662393922217084,,Non-directional importance
+Random Forest,FLAG_DOCUMENT_3,0.006548536357845854,,Non-directional importance
+Random Forest,APARTMENTS_AVG,0.006548073779696617,,Non-directional importance
+Random Forest,APARTMENTS_MODE,0.006312324429567832,,Non-directional importance
+Random Forest,NAME_INCOME_TYPE_Working,0.006126183284987664,,Non-directional importance
+Random Forest,LANDAREA_AVG,0.006039520362679743,,Non-directional importance
+Random Forest,BASEMENTAREA_AVG,0.005942053881567365,,Non-directional importance
+Random Forest,BASEMENTAREA_MODE,0.005903757922930903,,Non-directional importance
+Random Forest,LANDAREA_MODE,0.005860338893258738,,Non-directional importance
+Random Forest,AMT_REQ_CREDIT_BUREAU_YEAR,0.005810162067964244,,Non-directional importance
+Random Forest,NONLIVINGAREA_AVG,0.005190164543206778,,Non-directional importance
+Random Forest,OBS_30_CNT_SOCIAL_CIRCLE,0.005105251349527488,,Non-directional importance
+Random Forest,NONLIVINGAREA_MODE,0.004758501055796397,,Non-directional importance
+Random Forest,COMMONAREA_MODE,0.004408239846126779,,Non-directional importance
+Random Forest,COMMONAREA_AVG,0.0043533518283093925,,Non-directional importance
+Random Forest,YEARS_BUILD_AVG,0.004339426686209882,,Non-directional importance
+Random Forest,LIVINGAPARTMENTS_AVG,0.004056873416179987,,Non-directional importance
+Random Forest,REG_CITY_NOT_WORK_CITY,0.0037457029496499013,,Non-directional importance
+Random Forest,LIVINGAPARTMENTS_MODE,0.0037408592930091304,,Non-directional importance
+Random Forest,FLOORSMAX_AVG,0.0037281064822012435,,Non-directional importance
+Random Forest,NAME_INCOME_TYPE_Pensioner,0.0036297645579384534,,Non-directional importance
+Random Forest,ELEVATORS_AVG,0.0036148297007602267,,Non-directional importance
+Random Forest,ENTRANCES_AVG,0.0033779119935385175,,Non-directional importance
+Random Forest,FLAG_OWN_CAR_N,0.003243065491125597,,Non-directional importance
+Random Forest,CNT_FAM_MEMBERS,0.003156056224640861,,Non-directional importance
+Random Forest,FLAG_OWN_CAR_Y,0.0030806108573980615,,Non-directional importance
+Random Forest,NAME_CONTRACT_TYPE_Revolving loans,0.0029702707565796575,,Non-directional importance
+Random Forest,NAME_CONTRACT_TYPE_Cash loans,0.00290580276257409,,Non-directional importance
+Random Forest,FLAG_EMP_PHONE,0.0028785471129998907,,Non-directional importance
+Random Forest,NAME_FAMILY_STATUS_Married,0.0028736121224912925,,Non-directional importance
+Random Forest,ENTRANCES_MODE,0.0027444152615003414,,Non-directional importance
+Random Forest,ORGANIZATION_TYPE_XNA,0.0025738151171209277,,Non-directional importance
+Random Forest,ELEVATORS_MODE,0.0024313821524326222,,Non-directional importance
+Random Forest,CNT_CHILDREN,0.0022670579101539993,,Non-directional importance
+Random Forest,REG_CITY_NOT_LIVE_CITY,0.0022626685121085242,,Non-directional importance
+Random Forest,DEF_30_CNT_SOCIAL_CIRCLE,0.0021713850197280305,,Non-directional importance
+Random Forest,FLOORSMIN_AVG,0.0019499270756571097,,Non-directional importance
+Random Forest,FLAG_PHONE,0.0018938814698165746,,Non-directional importance
+Random Forest,OCCUPATION_TYPE_Laborers,0.0018580851674459325,,Non-directional importance
+Random Forest,FLAG_WORK_PHONE,0.0018111239064602948,,Non-directional importance
+Random Forest,AMT_REQ_CREDIT_BUREAU_QRT,0.0017746404745628836,,Non-directional importance
+Random Forest,FLAG_OWN_REALTY_N,0.001724949043750151,,Non-directional importance
+Random Forest,FLAG_OWN_REALTY_Y,0.001687957411100073,,Non-directional importance
+Random Forest,LIVE_CITY_NOT_WORK_CITY,0.0015009944365845043,,Non-directional importance
+Random Forest,ORGANIZATION_TYPE_Business Entity Type 3,0.0014450317695818065,,Non-directional importance
+Random Forest,NAME_INCOME_TYPE_Commercial associate,0.001377575459311582,,Non-directional importance
+Random Forest,DEF_60_CNT_SOCIAL_CIRCLE,0.0013488932909957929,,Non-directional importance
+Random Forest,ORGANIZATION_TYPE_Self-employed,0.0013381117587437468,,Non-directional importance
+Random Forest,NAME_FAMILY_STATUS_Single / not married,0.0013108654842938637,,Non-directional importance
+Random Forest,NONLIVINGAPARTMENTS_AVG,0.0012799292234569803,,Non-directional importance
+Random Forest,AMT_REQ_CREDIT_BUREAU_MON,0.0011854342819149653,,Non-directional importance
+Random Forest,WALLSMATERIAL_MODE_Panel,0.0011713348101670656,,Non-directional importance
+Random Forest,NAME_TYPE_SUITE_Unaccompanied,0.001119216210120317,,Non-directional importance
+Random Forest,WEEKDAY_APPR_PROCESS_START_TUESDAY,0.001082421683894957,,Non-directional importance
+Random Forest,NAME_HOUSING_TYPE_House / apartment,0.0010783445220492072,,Non-directional importance
+Random Forest,OCCUPATION_TYPE_Sales staff,0.0010514212389668247,,Non-directional importance
+Random Forest,WEEKDAY_APPR_PROCESS_START_FRIDAY,0.0010468807114011607,,Non-directional importance
+Random Forest,"WALLSMATERIAL_MODE_Stone, brick",0.0009990905807498987,,Non-directional importance
+Random Forest,WEEKDAY_APPR_PROCESS_START_WEDNESDAY,0.000994181893482509,,Non-directional importance
+Random Forest,WEEKDAY_APPR_PROCESS_START_THURSDAY,0.0009928386640720697,,Non-directional importance
+Random Forest,WEEKDAY_APPR_PROCESS_START_MONDAY,0.000985255676797967,,Non-directional importance
+Random Forest,NONLIVINGAPARTMENTS_MODE,0.0009810982545860876,,Non-directional importance
+Random Forest,OCCUPATION_TYPE_Core staff,0.0009003162448974404,,Non-directional importance
+Random Forest,NAME_INCOME_TYPE_State servant,0.0008362518253211965,,Non-directional importance
+Random Forest,NAME_TYPE_SUITE_Family,0.0008295968873261041,,Non-directional importance
+Random Forest,OCCUPATION_TYPE_Accountants,0.0007857294434405515,,Non-directional importance
+Random Forest,FLAG_DOCUMENT_8,0.0007608983913863428,,Non-directional importance
+Random Forest,OCCUPATION_TYPE_Drivers,0.0007226464849884785,,Non-directional importance
+Random Forest,WEEKDAY_APPR_PROCESS_START_SATURDAY,0.0006822454929785906,,Non-directional importance
+Random Forest,NAME_FAMILY_STATUS_Civil marriage,0.0006822294528939234,,Non-directional importance
+Random Forest,OCCUPATION_TYPE_Managers,0.0005569226315244103,,Non-directional importance
+Random Forest,FLAG_DOCUMENT_6,0.0005173261433501151,,Non-directional importance
+Random Forest,NAME_FAMILY_STATUS_Widow,0.0004820493383193807,,Non-directional importance
+Random Forest,NAME_HOUSING_TYPE_With parents,0.00046612282198100417,,Non-directional importance
+Random Forest,FONDKAPREMONT_MODE_reg oper account,0.00038653599246724833,,Non-directional importance
+Random Forest,ORGANIZATION_TYPE_Construction,0.0003804343931101138,,Non-directional importance
+Random Forest,NAME_FAMILY_STATUS_Separated,0.00036431235489092073,,Non-directional importance
+Random Forest,ORGANIZATION_TYPE_Other,0.00034001778935010684,,Non-directional importance
+Random Forest,REG_REGION_NOT_WORK_REGION,0.0003339542076196931,,Non-directional importance
+Random Forest,FLAG_EMAIL,0.00027074896548736276,,Non-directional importance
+Random Forest,NAME_EDUCATION_TYPE_Incomplete higher,0.00024444808328591124,,Non-directional importance
+Random Forest,ORGANIZATION_TYPE_School,0.0002419443370140439,,Non-directional importance
+Random Forest,LIVE_REGION_NOT_WORK_REGION,0.0002073086029899687,,Non-directional importance
+Random Forest,OCCUPATION_TYPE_High skill tech staff,0.0002054858149531233,,Non-directional importance
+Random Forest,ORGANIZATION_TYPE_Government,0.0001960671694293772,,Non-directional importance
+Random Forest,WEEKDAY_APPR_PROCESS_START_SUNDAY,0.00019517169683787305,,Non-directional importance
+Random Forest,FONDKAPREMONT_MODE_reg oper spec account,0.00019238664310304712,,Non-directional importance
+Random Forest,NAME_EDUCATION_TYPE_Lower secondary,0.00018950216973524854,,Non-directional importance
+Random Forest,NAME_HOUSING_TYPE_Municipal apartment,0.00018549398125489828,,Non-directional importance
+Random Forest,ORGANIZATION_TYPE_Medicine,0.00018046965665171957,,Non-directional importance
+Random Forest,OCCUPATION_TYPE_Security staff,0.00015656614072915654,,Non-directional importance
+Random Forest,OCCUPATION_TYPE_Medicine staff,0.00015494713785509212,,Non-directional importance
+Random Forest,"NAME_TYPE_SUITE_Spouse, partner",0.00015352926562175876,,Non-directional importance
+Random Forest,WALLSMATERIAL_MODE_Block,0.00015225361495563736,,Non-directional importance
+Random Forest,ORGANIZATION_TYPE_Business Entity Type 2,0.00013092439688948963,,Non-directional importance
+Random Forest,OCCUPATION_TYPE_Low-skill Laborers,0.00013020650839201081,,Non-directional importance
+Random Forest,ORGANIZATION_TYPE_Kindergarten,0.00010069570970075702,,Non-directional importance
+Random Forest,AMT_REQ_CREDIT_BUREAU_WEEK,9.274535640791335e-05,,Non-directional importance
 Random Forest,NAME_HOUSING_TYPE_Rented apartment,8.802837810358093e-05,,Non-directional importance
 Random Forest,ORGANIZATION_TYPE_Trade: type 7,7.675183212088276e-05,,Non-directional importance
 Random Forest,FONDKAPREMONT_MODE_not specified,6.408909078482233e-05,,Non-directional importance
-Random Forest,ORGANIZATION_TYPE_Military,5.647940993581016e-05,,Non-directional importance
+Random Forest,ORGANIZATION_TYPE_Military,5.6479409935810163e-05,,Non-directional importance
 Random Forest,REG_REGION_NOT_LIVE_REGION,5.405840558140275e-05,,Non-directional importance
 Random Forest,FLAG_DOCUMENT_16,5.3299537053411385e-05,,Non-directional importance
 Random Forest,ORGANIZATION_TYPE_Transport: type 4,5.211234360780669e-05,,Non-directional importance
@@ -155,7 +155,7 @@ Random Forest,ORGANIZATION_TYPE_Bank,1.8944100636130607e-05,,Non-directional imp
 Random Forest,ORGANIZATION_TYPE_Security Ministries,1.7472264065266718e-05,,Non-directional importance
 Random Forest,ORGANIZATION_TYPE_Agriculture,1.647124445267273e-05,,Non-directional importance
 Random Forest,NAME_HOUSING_TYPE_Office apartment,1.601692785862373e-05,,Non-directional importance
-Random Forest,ORGANIZATION_TYPE_Housing,1.4319035598896169e-05,,Non-directional importance
+Random Forest,ORGANIZATION_TYPE_Housing,1.4319035598896167e-05,,Non-directional importance
 Random Forest,FLAG_DOCUMENT_13,1.1739637814910108e-05,,Non-directional importance
 Random Forest,HOUSETYPE_MODE_specific housing,1.0937915529260768e-05,,Non-directional importance
 Random Forest,EMERGENCYSTATE_MODE_No,1.0368429626776132e-05,,Non-directional importance

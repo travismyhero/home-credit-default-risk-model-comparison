@@ -1,0 +1,13 @@
+check,passed
+five_models_trained,True
+development_splits_are_disjoint,True
+all_core_metrics_finite,True
+saved_predictions_reproduce_auc,True
+reloaded_models_reproduce_predictions,True
+no_target_or_id_in_features,True
+lightgbm_subsample_frequency_active,True
+no_critical_fit_warnings,True
+required_evidence_files_exist,True
+exact_expected_model_artifacts,True
+bootstrap_intervals_cover_all_models,True
+segment_results_cover_all_models,True

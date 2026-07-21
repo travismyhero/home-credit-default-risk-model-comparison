@@ -1,0 +1,6 @@
+Model,TrainAUC,ModelSelectionAUC,TestAUC,TrainSelectionGap,Interpretation
+Logistic Regression,0.746097511651214,0.7473617324797974,0.7514145964392743,-0.0012642208285834622,Gap is descriptive; stability requires resampling and out-of-time evidence.
+Decision Tree,0.7371665843059414,0.7189778360757645,0.723119262703815,0.01818874823017691,Gap is descriptive; stability requires resampling and out-of-time evidence.
+Random Forest,0.8518336046203341,0.7469804524729883,0.7526202265397273,0.10485315214734581,Gap is descriptive; stability requires resampling and out-of-time evidence.
+XGBoost,0.7919231698731657,0.7639027101466117,0.7674005231399331,0.02802045972655398,Gap is descriptive; stability requires resampling and out-of-time evidence.
+LightGBM,0.7874973380877784,0.7646089375784826,0.7670519004272387,0.02288840050929586,Gap is descriptive; stability requires resampling and out-of-time evidence.

@@ -1,36 +1,36 @@
 Model,Feature,Importance,SignedValue,Direction
-Decision Tree,EXT_SOURCE_2,0.3748088753426287,,Non-directional importance
+Decision Tree,EXT_SOURCE_2,0.37480887534262874,,Non-directional importance
 Decision Tree,EXT_SOURCE_3,0.3500527288345631,,Non-directional importance
-Decision Tree,EXT_SOURCE_1,0.0787492254722904,,Non-directional importance
-Decision Tree,GOODS_CREDIT_RATIO,0.0416986452671391,,Non-directional importance
-Decision Tree,CODE_GENDER_F,0.0260790289738304,,Non-directional importance
-Decision Tree,EMPLOYED_BIRTH_RATIO,0.0216216024721498,,Non-directional importance
-Decision Tree,DAYS_EMPLOYED,0.0205050702149974,,Non-directional importance
-Decision Tree,DAYS_BIRTH,0.0118921304486355,,Non-directional importance
-Decision Tree,NAME_EDUCATION_TYPE_Higher education,0.0112146814382072,,Non-directional importance
-Decision Tree,CREDIT_ANNUITY_RATIO,0.0084477135770928,,Non-directional importance
-Decision Tree,ANNUITY_INCOME_RATIO,0.0065622651854109,,Non-directional importance
-Decision Tree,DAYS_ID_PUBLISH,0.0056647098215056,,Non-directional importance
-Decision Tree,NAME_EDUCATION_TYPE_Secondary / secondary special,0.0052963160767298,,Non-directional importance
-Decision Tree,CODE_GENDER_M,0.0040378600375661,,Non-directional importance
-Decision Tree,AMT_CREDIT,0.0039579741038457,,Non-directional importance
-Decision Tree,CREDIT_INCOME_RATIO,0.0034375347595736,,Non-directional importance
-Decision Tree,FLAG_DOCUMENT_3,0.0032601436963769,,Non-directional importance
-Decision Tree,PAYMENT_RATE,0.0025046641564642,,Non-directional importance
-Decision Tree,BASEMENTAREA_MODE,0.0023118184912264,,Non-directional importance
-Decision Tree,AMT_ANNUITY,0.0019981839540951,,Non-directional importance
-Decision Tree,ELEVATORS_AVG,0.001956310957045,,Non-directional importance
-Decision Tree,LIVINGAREA_MODE,0.0019502217734012,,Non-directional importance
-Decision Tree,DAYS_LAST_PHONE_CHANGE,0.0017453865146486,,Non-directional importance
-Decision Tree,DEF_60_CNT_SOCIAL_CIRCLE,0.0015513862898226,,Non-directional importance
-Decision Tree,FLAG_OWN_CAR_N,0.0015378153280099,,Non-directional importance
-Decision Tree,OBS_30_CNT_SOCIAL_CIRCLE,0.001323259279493,,Non-directional importance
-Decision Tree,AMT_REQ_CREDIT_BUREAU_YEAR,0.0013063308894087,,Non-directional importance
-Decision Tree,DAYS_REGISTRATION,0.0012950751430781,,Non-directional importance
-Decision Tree,REGION_POPULATION_RELATIVE,0.0008933316983679,,Non-directional importance
-Decision Tree,ENTRANCES_AVG,0.0007031752052797,,Non-directional importance
-Decision Tree,NONLIVINGAREA_AVG,0.0006120532600276,,Non-directional importance
-Decision Tree,AMT_INCOME_TOTAL,0.0005423858812543,,Non-directional importance
+Decision Tree,EXT_SOURCE_1,0.07874922547229045,,Non-directional importance
+Decision Tree,GOODS_CREDIT_RATIO,0.041698645267139144,,Non-directional importance
+Decision Tree,CODE_GENDER_F,0.026079028973830493,,Non-directional importance
+Decision Tree,EMPLOYED_BIRTH_RATIO,0.02162160247214982,,Non-directional importance
+Decision Tree,DAYS_EMPLOYED,0.020505070214997482,,Non-directional importance
+Decision Tree,DAYS_BIRTH,0.011892130448635548,,Non-directional importance
+Decision Tree,NAME_EDUCATION_TYPE_Higher education,0.011214681438207233,,Non-directional importance
+Decision Tree,CREDIT_ANNUITY_RATIO,0.008447713577092805,,Non-directional importance
+Decision Tree,ANNUITY_INCOME_RATIO,0.006562265185410919,,Non-directional importance
+Decision Tree,DAYS_ID_PUBLISH,0.0056647098215056825,,Non-directional importance
+Decision Tree,NAME_EDUCATION_TYPE_Secondary / secondary special,0.005296316076729885,,Non-directional importance
+Decision Tree,CODE_GENDER_M,0.004037860037566181,,Non-directional importance
+Decision Tree,AMT_CREDIT,0.003957974103845769,,Non-directional importance
+Decision Tree,CREDIT_INCOME_RATIO,0.0034375347595736105,,Non-directional importance
+Decision Tree,FLAG_DOCUMENT_3,0.0032601436963769735,,Non-directional importance
+Decision Tree,PAYMENT_RATE,0.0025046641564642398,,Non-directional importance
+Decision Tree,BASEMENTAREA_MODE,0.0023118184912264907,,Non-directional importance
+Decision Tree,AMT_ANNUITY,0.001998183954095124,,Non-directional importance
+Decision Tree,ELEVATORS_AVG,0.0019563109570450293,,Non-directional importance
+Decision Tree,LIVINGAREA_MODE,0.001950221773401277,,Non-directional importance
+Decision Tree,DAYS_LAST_PHONE_CHANGE,0.0017453865146486848,,Non-directional importance
+Decision Tree,DEF_60_CNT_SOCIAL_CIRCLE,0.0015513862898226304,,Non-directional importance
+Decision Tree,FLAG_OWN_CAR_N,0.001537815328009922,,Non-directional importance
+Decision Tree,OBS_30_CNT_SOCIAL_CIRCLE,0.001323259279493073,,Non-directional importance
+Decision Tree,AMT_REQ_CREDIT_BUREAU_YEAR,0.001306330889408784,,Non-directional importance
+Decision Tree,DAYS_REGISTRATION,0.0012950751430781018,,Non-directional importance
+Decision Tree,REGION_POPULATION_RELATIVE,0.0008933316983679374,,Non-directional importance
+Decision Tree,ENTRANCES_AVG,0.000703175205279773,,Non-directional importance
+Decision Tree,NONLIVINGAREA_AVG,0.0006120532600276526,,Non-directional importance
+Decision Tree,AMT_INCOME_TOTAL,0.0005423858812543994,,Non-directional importance
 Decision Tree,INCOME_PER_PERSON,0.0004820954558331,,Non-directional importance
 Decision Tree,ORGANIZATION_TYPE_Culture,0.0,,Non-directional importance
 Decision Tree,ORGANIZATION_TYPE_Construction,0.0,,Non-directional importance

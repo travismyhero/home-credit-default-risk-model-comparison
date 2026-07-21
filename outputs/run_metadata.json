@@ -1,4 +1,5 @@
 {
+  "project_root": "/Users/ganlu/Desktop/home-credit-risk-english",
   "random_state": 42,
   "debug_mode": false,
   "source_rows": 307511,
@@ -7,10 +8,19 @@
   "encoded_features": 232,
   "cv_folds": 5,
   "tuning_sample_size": 60000,
+  "bootstrap_replicates": 500,
+  "split_purpose": {
+    "train": "preprocessing, feature selection, tuning CV, and final fit",
+    "model_selection": "boosting candidate selection and early stopping",
+    "calibration": "probability mapping",
+    "threshold": "operating cutoff selection",
+    "test": "one final evaluation and inference"
+  },
   "library_versions": {
     "python": "3.13.11",
     "pandas": "2.3.3",
     "numpy": "2.4.2",
+    "scipy": "1.17.0",
     "matplotlib": "3.10.8",
     "scikit-learn": "1.8.0",
     "xgboost": "2.1.4",

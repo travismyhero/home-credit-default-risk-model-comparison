@@ -1,193 +1,189 @@
 Model,Feature,Importance,SignedValue,Direction
-XGBoost,EXT_SOURCE_2,0.03940868,,Non-directional importance
-XGBoost,EXT_SOURCE_3,0.03661971,,Non-directional importance
-XGBoost,NAME_EDUCATION_TYPE_Higher education,0.03101052,,Non-directional importance
-XGBoost,CODE_GENDER_F,0.021005247,,Non-directional importance
-XGBoost,CODE_GENDER_M,0.016742898,,Non-directional importance
-XGBoost,GOODS_CREDIT_RATIO,0.014515372,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_3,0.014375944,,Non-directional importance
-XGBoost,EXT_SOURCE_1,0.014322506,,Non-directional importance
-XGBoost,DAYS_EMPLOYED,0.012866882,,Non-directional importance
-XGBoost,NAME_CONTRACT_TYPE_Cash loans,0.010906612,,Non-directional importance
-XGBoost,PAYMENT_RATE,0.010359419,,Non-directional importance
-XGBoost,NAME_INCOME_TYPE_Working,0.010315438,,Non-directional importance
-XGBoost,NAME_EDUCATION_TYPE_Secondary / secondary special,0.010203713,,Non-directional importance
-XGBoost,REG_CITY_NOT_LIVE_CITY,0.009374012,,Non-directional importance
-XGBoost,DEF_60_CNT_SOCIAL_CIRCLE,0.008708414,,Non-directional importance
-XGBoost,CREDIT_ANNUITY_RATIO,0.0086987205,,Non-directional importance
-XGBoost,FLAG_OWN_CAR_N,0.008172682,,Non-directional importance
-XGBoost,REGION_RATING_CLIENT_W_CITY,0.008025475,,Non-directional importance
-XGBoost,DEF_30_CNT_SOCIAL_CIRCLE,0.007834389,,Non-directional importance
-XGBoost,OWN_CAR_AGE,0.0076664467,,Non-directional importance
-XGBoost,NAME_FAMILY_STATUS_Married,0.0072420137,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Construction,0.007233051,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Core staff,0.007208216,,Non-directional importance
-XGBoost,DAYS_BIRTH,0.0071488516,,Non-directional importance
-XGBoost,AMT_REQ_CREDIT_BUREAU_QRT,0.0067990096,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_11,0.0063482085,,Non-directional importance
-XGBoost,NAME_INCOME_TYPE_State servant,0.0063260198,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Self-employed,0.0063251513,,Non-directional importance
-XGBoost,AMT_ANNUITY,0.006303808,,Non-directional importance
-XGBoost,FLAG_WORK_PHONE,0.005922221,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Restaurant,0.005855169,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Cooking staff,0.005796419,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Trade: type 2,0.005710277,,Non-directional importance
-XGBoost,AMT_CREDIT,0.005645702,,Non-directional importance
-XGBoost,EMPLOYED_BIRTH_RATIO,0.005597288,,Non-directional importance
-XGBoost,NAME_INCOME_TYPE_Pensioner,0.005574814,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Military,0.005559643,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Accountants,0.0054460447,,Non-directional importance
-XGBoost,DAYS_ID_PUBLISH,0.0053618164,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Low-skill Laborers,0.0053479625,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Industry: type 11,0.005327595,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Trade: type 7,0.0052122604,,Non-directional importance
-XGBoost,ELEVATORS_AVG,0.0052011637,,Non-directional importance
-XGBoost,ELEVATORS_MODE,0.005168671,,Non-directional importance
-XGBoost,FLOORSMAX_AVG,0.0051020426,,Non-directional importance
-XGBoost,REG_REGION_NOT_WORK_REGION,0.0050746584,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Transport: type 4,0.0049275937,,Non-directional importance
-XGBoost,APARTMENTS_AVG,0.004926244,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Postal,0.004917463,,Non-directional importance
-XGBoost,ANNUITY_INCOME_RATIO,0.0049015796,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Transport: type 3,0.004898553,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Drivers,0.0048863105,,Non-directional importance
-XGBoost,AMT_REQ_CREDIT_BUREAU_YEAR,0.004884409,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Security Ministries,0.004840613,,Non-directional importance
-XGBoost,LIVINGAREA_MODE,0.004836473,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_18,0.0048328717,,Non-directional importance
-XGBoost,LIVINGAREA_AVG,0.0048307576,,Non-directional importance
-XGBoost,WALLSMATERIAL_MODE_Block,0.0048041022,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Sales staff,0.0047391206,,Non-directional importance
-XGBoost,"NAME_TYPE_SUITE_Spouse, partner",0.0047230744,,Non-directional importance
-XGBoost,YEARS_BEGINEXPLUATATION_MODE,0.004722012,,Non-directional importance
-XGBoost,WALLSMATERIAL_MODE_Others,0.0046638264,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Agriculture,0.0046351296,,Non-directional importance
-XGBoost,FLAG_EMAIL,0.0045993035,,Non-directional importance
-XGBoost,COMMONAREA_AVG,0.004595661,,Non-directional importance
-XGBoost,REGION_RATING_CLIENT,0.004590005,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Industry: type 7,0.00458309,,Non-directional importance
-XGBoost,DAYS_LAST_PHONE_CHANGE,0.004567138,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Security staff,0.004564708,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Security,0.0045639607,,Non-directional importance
-XGBoost,NAME_TYPE_SUITE_Children,0.00454809,,Non-directional importance
-XGBoost,LIVINGAPARTMENTS_MODE,0.004547036,,Non-directional importance
-XGBoost,NAME_FAMILY_STATUS_Separated,0.0045341686,,Non-directional importance
-XGBoost,APARTMENTS_MODE,0.0045294715,,Non-directional importance
-XGBoost,NAME_HOUSING_TYPE_Municipal apartment,0.004526464,,Non-directional importance
-XGBoost,COMMONAREA_MODE,0.0044632265,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_13,0.004461893,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_16,0.0044533648,,Non-directional importance
-XGBoost,CREDIT_INCOME_RATIO,0.004440598,,Non-directional importance
-XGBoost,FLOORSMIN_AVG,0.0044340664,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Industry: type 9,0.004409044,,Non-directional importance
-XGBoost,YEARS_BEGINEXPLUATATION_AVG,0.004402672,,Non-directional importance
-XGBoost,NAME_FAMILY_STATUS_Single / not married,0.0043952656,,Non-directional importance
-XGBoost,FLAG_EMP_PHONE,0.004390237,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Transport: type 2,0.004363436,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_9,0.004347071,,Non-directional importance
-XGBoost,NAME_FAMILY_STATUS_Widow,0.004309637,,Non-directional importance
-XGBoost,AMT_REQ_CREDIT_BUREAU_DAY,0.0042960728,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Business Entity Type 1,0.0042923903,,Non-directional importance
-XGBoost,ENTRANCES_AVG,0.004271069,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Medicine,0.0042644,,Non-directional importance
-XGBoost,NONLIVINGAPARTMENTS_AVG,0.0042536226,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_School,0.0042524105,,Non-directional importance
-XGBoost,WEEKDAY_APPR_PROCESS_START_SATURDAY,0.00424477,,Non-directional importance
-XGBoost,LIVINGAPARTMENTS_AVG,0.004234736,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Bank,0.004209985,,Non-directional importance
-XGBoost,LANDAREA_AVG,0.0042025778,,Non-directional importance
-XGBoost,NAME_HOUSING_TYPE_Office apartment,0.0041832863,,Non-directional importance
-XGBoost,TOTALAREA_MODE,0.0041821995,,Non-directional importance
-XGBoost,DAYS_REGISTRATION,0.0041695163,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Business Entity Type 2,0.004133937,,Non-directional importance
-XGBoost,NONLIVINGAREA_AVG,0.0040986002,,Non-directional importance
-XGBoost,AMT_INCOME_TOTAL,0.0040933155,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Realtor,0.0040877853,,Non-directional importance
-XGBoost,NAME_HOUSING_TYPE_Rented apartment,0.0040612556,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_High skill tech staff,0.004057757,,Non-directional importance
-XGBoost,YEARS_BUILD_AVG,0.004047553,,Non-directional importance
-XGBoost,FONDKAPREMONT_MODE_not specified,0.0040357537,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Cleaning staff,0.004021795,,Non-directional importance
-XGBoost,BASEMENTAREA_AVG,0.0040102135,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Secretaries,0.003972568,,Non-directional importance
-XGBoost,AMT_REQ_CREDIT_BUREAU_WEEK,0.0039664465,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Medicine staff,0.003963796,,Non-directional importance
-XGBoost,REGION_POPULATION_RELATIVE,0.00396053,,Non-directional importance
-XGBoost,FONDKAPREMONT_MODE_reg oper spec account,0.003959572,,Non-directional importance
-XGBoost,NAME_EDUCATION_TYPE_Incomplete higher,0.00394102,,Non-directional importance
-XGBoost,FONDKAPREMONT_MODE_reg oper account,0.003937347,,Non-directional importance
-XGBoost,ENTRANCES_MODE,0.0039203125,,Non-directional importance
-XGBoost,HOUR_APPR_PROCESS_START,0.0039061548,,Non-directional importance
-XGBoost,WALLSMATERIAL_MODE_Panel,0.0039011454,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_8,0.0038964455,,Non-directional importance
-XGBoost,LANDAREA_MODE,0.0038902878,,Non-directional importance
-XGBoost,NAME_HOUSING_TYPE_With parents,0.0038674104,,Non-directional importance
-XGBoost,"WALLSMATERIAL_MODE_Stone, brick",0.0038662185,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Trade: type 6,0.003865268,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Other,0.0038618795,,Non-directional importance
-XGBoost,NAME_TYPE_SUITE_Family,0.0038518228,,Non-directional importance
-XGBoost,WEEKDAY_APPR_PROCESS_START_MONDAY,0.0038510044,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Police,0.003847419,,Non-directional importance
-XGBoost,NONLIVINGAREA_MODE,0.0038427725,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Kindergarten,0.0038424637,,Non-directional importance
-XGBoost,BASEMENTAREA_MODE,0.003838095,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_6,0.0038232463,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Business Entity Type 3,0.0038102476,,Non-directional importance
-XGBoost,EMERGENCYSTATE_MODE_No,0.0038010036,,Non-directional importance
-XGBoost,NAME_FAMILY_STATUS_Civil marriage,0.003788451,,Non-directional importance
-XGBoost,INCOME_PER_PERSON,0.0037857355,,Non-directional importance
-XGBoost,NONLIVINGAPARTMENTS_MODE,0.0037632901,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_14,0.0037614529,,Non-directional importance
-XGBoost,LIVE_REGION_NOT_WORK_REGION,0.0037407111,,Non-directional importance
-XGBoost,CNT_FAM_MEMBERS,0.0037267818,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Government,0.0037037076,,Non-directional importance
-XGBoost,OBS_30_CNT_SOCIAL_CIRCLE,0.0036954433,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Private service staff,0.0036211347,,Non-directional importance
-XGBoost,WEEKDAY_APPR_PROCESS_START_WEDNESDAY,0.0036180597,,Non-directional importance
-XGBoost,CNT_CHILDREN,0.003601261,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_5,0.0035642975,,Non-directional importance
-XGBoost,FONDKAPREMONT_MODE_org spec account,0.0035565929,,Non-directional importance
-XGBoost,WEEKDAY_APPR_PROCESS_START_THURSDAY,0.0035412125,,Non-directional importance
-XGBoost,AMT_REQ_CREDIT_BUREAU_MON,0.0034887833,,Non-directional importance
-XGBoost,NAME_EDUCATION_TYPE_Lower secondary,0.0034819993,,Non-directional importance
-XGBoost,HOUSETYPE_MODE_terraced house,0.0034818728,,Non-directional importance
-XGBoost,NAME_HOUSING_TYPE_House / apartment,0.0034783578,,Non-directional importance
-XGBoost,WEEKDAY_APPR_PROCESS_START_TUESDAY,0.0034769678,,Non-directional importance
-XGBoost,NAME_TYPE_SUITE_Unaccompanied,0.0034749159,,Non-directional importance
-XGBoost,NAME_HOUSING_TYPE_Co-op apartment,0.0034550058,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Laborers,0.0034396544,,Non-directional importance
-XGBoost,WEEKDAY_APPR_PROCESS_START_FRIDAY,0.0033749575,,Non-directional importance
-XGBoost,WEEKDAY_APPR_PROCESS_START_SUNDAY,0.0033134166,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_XNA,0.0033060052,,Non-directional importance
-XGBoost,REG_CITY_NOT_WORK_CITY,0.0032791032,,Non-directional importance
-XGBoost,NAME_TYPE_SUITE_Other_B,0.003259389,,Non-directional importance
-XGBoost,FLAG_PHONE,0.0032544725,,Non-directional importance
-XGBoost,HOUSETYPE_MODE_specific housing,0.0032488522,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_University,0.0032305075,,Non-directional importance
-XGBoost,WALLSMATERIAL_MODE_Monolithic,0.0032230632,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Services,0.0031152798,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_15,0.0030430888,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Culture,0.002983311,,Non-directional importance
-XGBoost,NAME_INCOME_TYPE_Commercial associate,0.0029513885,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Managers,0.002940065,,Non-directional importance
-XGBoost,FLAG_OWN_REALTY_N,0.0029377516,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Legal Services,0.0028490839,,Non-directional importance
-XGBoost,REG_REGION_NOT_LIVE_REGION,0.0028308511,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Telecom,0.0026528686,,Non-directional importance
-XGBoost,FLAG_CONT_MOBILE,0.0026200067,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Industry: type 5,0.0026125393,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Housing,0.0025996475,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Industry: type 3,0.0025813892,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Advertising,0.0025716308,,Non-directional importance
-XGBoost,OCCUPATION_TYPE_Waiters/barmen staff,0.0023757129,,Non-directional importance
-XGBoost,WALLSMATERIAL_MODE_Wooden,0.0021767863,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Industry: type 1,0.0021522262,,Non-directional importance
-XGBoost,LIVE_CITY_NOT_WORK_CITY,0.002073369,,Non-directional importance
-XGBoost,NAME_EDUCATION_TYPE_Academic degree,0.0020366802,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Transport: type 1,0.0019119415,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Industry: type 4,0.0017986273,,Non-directional importance
+XGBoost,EXT_SOURCE_2,0.051288947,,Non-directional importance
+XGBoost,EXT_SOURCE_3,0.04593864,,Non-directional importance
+XGBoost,NAME_EDUCATION_TYPE_Higher education,0.03145017,,Non-directional importance
+XGBoost,CODE_GENDER_F,0.022501959,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_3,0.019440982,,Non-directional importance
+XGBoost,CODE_GENDER_M,0.017358027,,Non-directional importance
+XGBoost,DAYS_EMPLOYED,0.0171948,,Non-directional importance
+XGBoost,EXT_SOURCE_1,0.017183017,,Non-directional importance
+XGBoost,GOODS_CREDIT_RATIO,0.016672662,,Non-directional importance
+XGBoost,NAME_INCOME_TYPE_Working,0.014803569,,Non-directional importance
+XGBoost,PAYMENT_RATE,0.012598322,,Non-directional importance
+XGBoost,NAME_EDUCATION_TYPE_Secondary / secondary special,0.011016055,,Non-directional importance
+XGBoost,NAME_CONTRACT_TYPE_Cash loans,0.010475736,,Non-directional importance
+XGBoost,OWN_CAR_AGE,0.010364648,,Non-directional importance
+XGBoost,FLAG_OWN_CAR_N,0.010066267,,Non-directional importance
+XGBoost,CREDIT_ANNUITY_RATIO,0.009986347,,Non-directional importance
+XGBoost,REG_CITY_NOT_LIVE_CITY,0.009603781,,Non-directional importance
+XGBoost,DEF_60_CNT_SOCIAL_CIRCLE,0.0088994065,,Non-directional importance
+XGBoost,REGION_RATING_CLIENT_W_CITY,0.008492644,,Non-directional importance
+XGBoost,DAYS_BIRTH,0.008440574,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Core staff,0.008229123,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Cooking staff,0.007787852,,Non-directional importance
+XGBoost,DEF_30_CNT_SOCIAL_CIRCLE,0.007599754,,Non-directional importance
+XGBoost,NAME_FAMILY_STATUS_Married,0.007564094,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Construction,0.007429232,,Non-directional importance
+XGBoost,AMT_ANNUITY,0.0074107614,,Non-directional importance
+XGBoost,EMPLOYED_BIRTH_RATIO,0.007259955,,Non-directional importance
+XGBoost,AMT_REQ_CREDIT_BUREAU_QRT,0.0072232177,,Non-directional importance
+XGBoost,FLAG_WORK_PHONE,0.0071402746,,Non-directional importance
+XGBoost,FLOORSMAX_AVG,0.00711585,,Non-directional importance
+XGBoost,NAME_INCOME_TYPE_Pensioner,0.007001903,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Self-employed,0.0068091084,,Non-directional importance
+XGBoost,NAME_INCOME_TYPE_State servant,0.006787388,,Non-directional importance
+XGBoost,NAME_TYPE_SUITE_Children,0.0063430048,,Non-directional importance
+XGBoost,AMT_CREDIT,0.006211805,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Cleaning staff,0.0060920105,,Non-directional importance
+XGBoost,DAYS_ID_PUBLISH,0.005907494,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Military,0.0058656703,,Non-directional importance
+XGBoost,NAME_FAMILY_STATUS_Separated,0.005767649,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Transport: type 3,0.005742636,,Non-directional importance
+XGBoost,ELEVATORS_AVG,0.005716108,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Kindergarten,0.005698927,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Sales staff,0.005652834,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Trade: type 2,0.0054926076,,Non-directional importance
+XGBoost,AMT_REQ_CREDIT_BUREAU_YEAR,0.0054619685,,Non-directional importance
+XGBoost,ANNUITY_INCOME_RATIO,0.005437161,,Non-directional importance
+XGBoost,EMERGENCYSTATE_MODE_No,0.0054179477,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Low-skill Laborers,0.0054037166,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Accountants,0.0053928057,,Non-directional importance
+XGBoost,YEARS_BEGINEXPLUATATION_MODE,0.005386658,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Security Ministries,0.0053501595,,Non-directional importance
+XGBoost,FLAG_EMP_PHONE,0.005288978,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Security staff,0.005190091,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_18,0.0051831445,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_13,0.0051149544,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Agriculture,0.005085721,,Non-directional importance
+XGBoost,ELEVATORS_MODE,0.0050391788,,Non-directional importance
+XGBoost,APARTMENTS_AVG,0.004978416,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Industry: type 11,0.004955243,,Non-directional importance
+XGBoost,FLOORSMIN_AVG,0.0049528545,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Medicine,0.0049483217,,Non-directional importance
+XGBoost,AMT_REQ_CREDIT_BUREAU_DAY,0.0049316618,,Non-directional importance
+XGBoost,DAYS_LAST_PHONE_CHANGE,0.0049035572,,Non-directional importance
+XGBoost,COMMONAREA_AVG,0.004900573,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Bank,0.0048849955,,Non-directional importance
+XGBoost,COMMONAREA_MODE,0.004848159,,Non-directional importance
+XGBoost,REG_REGION_NOT_WORK_REGION,0.004847527,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Industry: type 9,0.0048386846,,Non-directional importance
+XGBoost,TOTALAREA_MODE,0.0048357123,,Non-directional importance
+XGBoost,WALLSMATERIAL_MODE_Others,0.0048266384,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_16,0.0048210314,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_11,0.0048123114,,Non-directional importance
+XGBoost,CREDIT_INCOME_RATIO,0.004800846,,Non-directional importance
+XGBoost,WALLSMATERIAL_MODE_Monolithic,0.0047708233,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Drivers,0.00472384,,Non-directional importance
+XGBoost,REGION_RATING_CLIENT,0.0046983836,,Non-directional importance
+XGBoost,LIVINGAREA_MODE,0.004697301,,Non-directional importance
+XGBoost,AMT_REQ_CREDIT_BUREAU_WEEK,0.0046931137,,Non-directional importance
+XGBoost,LIVINGAREA_AVG,0.0046674693,,Non-directional importance
+XGBoost,NAME_EDUCATION_TYPE_Lower secondary,0.0046451036,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_School,0.0046060486,,Non-directional importance
+XGBoost,ENTRANCES_AVG,0.0046053072,,Non-directional importance
+XGBoost,FLAG_EMAIL,0.004604826,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Realtor,0.0046001384,,Non-directional importance
+XGBoost,NONLIVINGAPARTMENTS_AVG,0.00458928,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_14,0.0045719673,,Non-directional importance
+XGBoost,NAME_HOUSING_TYPE_Rented apartment,0.0045435163,,Non-directional importance
+XGBoost,NAME_FAMILY_STATUS_Single / not married,0.00454246,,Non-directional importance
+XGBoost,APARTMENTS_MODE,0.0045380006,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Medicine staff,0.004533647,,Non-directional importance
+XGBoost,WEEKDAY_APPR_PROCESS_START_SATURDAY,0.0045239036,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_High skill tech staff,0.004502034,,Non-directional importance
+XGBoost,YEARS_BUILD_AVG,0.004491525,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Private service staff,0.004486528,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Trade: type 6,0.00447421,,Non-directional importance
+XGBoost,LIVINGAPARTMENTS_MODE,0.0044700317,,Non-directional importance
+XGBoost,ENTRANCES_MODE,0.004439168,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Transport: type 4,0.0044087074,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Transport: type 2,0.004397327,,Non-directional importance
+XGBoost,LIVINGAPARTMENTS_AVG,0.004389399,,Non-directional importance
+XGBoost,NAME_EDUCATION_TYPE_Incomplete higher,0.0043770997,,Non-directional importance
+XGBoost,DAYS_REGISTRATION,0.004346873,,Non-directional importance
+XGBoost,NAME_HOUSING_TYPE_Municipal apartment,0.0043215374,,Non-directional importance
+XGBoost,LANDAREA_MODE,0.0043194895,,Non-directional importance
+XGBoost,CNT_CHILDREN,0.0043049864,,Non-directional importance
+XGBoost,NONLIVINGAREA_AVG,0.0042862142,,Non-directional importance
+XGBoost,CNT_FAM_MEMBERS,0.004278751,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Business Entity Type 3,0.004275635,,Non-directional importance
+XGBoost,BASEMENTAREA_AVG,0.004248999,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Police,0.004235698,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Other,0.0042022746,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_6,0.0042003673,,Non-directional importance
+XGBoost,YEARS_BEGINEXPLUATATION_AVG,0.00409716,,Non-directional importance
+XGBoost,NONLIVINGAPARTMENTS_MODE,0.0040800204,,Non-directional importance
+XGBoost,WALLSMATERIAL_MODE_Panel,0.00407481,,Non-directional importance
+XGBoost,NAME_HOUSING_TYPE_Office apartment,0.004071213,,Non-directional importance
+XGBoost,WEEKDAY_APPR_PROCESS_START_MONDAY,0.004068613,,Non-directional importance
+XGBoost,HOUR_APPR_PROCESS_START,0.0040669334,,Non-directional importance
+XGBoost,LANDAREA_AVG,0.0040568323,,Non-directional importance
+XGBoost,NONLIVINGAREA_MODE,0.0040380955,,Non-directional importance
+XGBoost,OBS_30_CNT_SOCIAL_CIRCLE,0.0040083155,,Non-directional importance
+XGBoost,AMT_INCOME_TOTAL,0.003996457,,Non-directional importance
+XGBoost,FONDKAPREMONT_MODE_reg oper spec account,0.0039798794,,Non-directional importance
+XGBoost,NAME_HOUSING_TYPE_House / apartment,0.003977608,,Non-directional importance
+XGBoost,"NAME_TYPE_SUITE_Spouse, partner",0.0039580115,,Non-directional importance
+XGBoost,REGION_POPULATION_RELATIVE,0.0039374735,,Non-directional importance
+XGBoost,"WALLSMATERIAL_MODE_Stone, brick",0.0038835823,,Non-directional importance
+XGBoost,BASEMENTAREA_MODE,0.003883186,,Non-directional importance
+XGBoost,AMT_REQ_CREDIT_BUREAU_MON,0.0038587067,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Secretaries,0.0038503006,,Non-directional importance
+XGBoost,FONDKAPREMONT_MODE_not specified,0.0038288138,,Non-directional importance
+XGBoost,WEEKDAY_APPR_PROCESS_START_TUESDAY,0.0038216766,,Non-directional importance
+XGBoost,NAME_TYPE_SUITE_Family,0.0037976506,,Non-directional importance
+XGBoost,INCOME_PER_PERSON,0.0036639993,,Non-directional importance
+XGBoost,NAME_FAMILY_STATUS_Civil marriage,0.0036402284,,Non-directional importance
+XGBoost,NAME_FAMILY_STATUS_Widow,0.0036301552,,Non-directional importance
+XGBoost,REG_CITY_NOT_WORK_CITY,0.0036251324,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Government,0.003604513,,Non-directional importance
+XGBoost,WALLSMATERIAL_MODE_Block,0.0036001103,,Non-directional importance
+XGBoost,NAME_TYPE_SUITE_Unaccompanied,0.0035428025,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Services,0.0035239072,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_15,0.003487118,,Non-directional importance
+XGBoost,FONDKAPREMONT_MODE_reg oper account,0.0034028543,,Non-directional importance
+XGBoost,WEEKDAY_APPR_PROCESS_START_WEDNESDAY,0.0033966096,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Legal Services,0.0033654114,,Non-directional importance
+XGBoost,NAME_HOUSING_TYPE_With parents,0.0033245392,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_8,0.0031885335,,Non-directional importance
+XGBoost,WEEKDAY_APPR_PROCESS_START_SUNDAY,0.0031726926,,Non-directional importance
+XGBoost,WEEKDAY_APPR_PROCESS_START_THURSDAY,0.0030986636,,Non-directional importance
+XGBoost,FLAG_PHONE,0.0030801562,,Non-directional importance
+XGBoost,NAME_INCOME_TYPE_Commercial associate,0.0030225874,,Non-directional importance
+XGBoost,REG_REGION_NOT_LIVE_REGION,0.0029356785,,Non-directional importance
+XGBoost,FONDKAPREMONT_MODE_org spec account,0.002637147,,Non-directional importance
+XGBoost,WEEKDAY_APPR_PROCESS_START_FRIDAY,0.0026037563,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Managers,0.0025781118,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Business Entity Type 1,0.0025619986,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Laborers,0.0023962278,,Non-directional importance
+XGBoost,FLAG_OWN_REALTY_N,0.002395063,,Non-directional importance
+XGBoost,LIVE_CITY_NOT_WORK_CITY,0.0021098221,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Telecom,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Insurance,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Trade: type 4,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Trade: type 3,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Mobile,0.0,,Non-directional importance
+XGBoost,WALLSMATERIAL_MODE_Mixed,0.0,,Non-directional importance
+XGBoost,WALLSMATERIAL_MODE_Wooden,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Postal,0.0,,Non-directional importance
+XGBoost,HOUSETYPE_MODE_specific housing,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Religion,0.0,,Non-directional importance
+XGBoost,HOUSETYPE_MODE_terraced house,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Restaurant,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Trade: type 7,0.0,,Non-directional importance
 XGBoost,HOUSETYPE_MODE_block of flats,0.0,,Non-directional importance
-XGBoost,NAME_INCOME_TYPE_Businessman,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Trade: type 5,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Security,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Trade: type 1,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Industry: type 7,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_XNA,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_University,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Transport: type 1,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Industry: type 8,0.0,,Non-directional importance
+XGBoost,NAME_EDUCATION_TYPE_Academic degree,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Industry: type 6,0.0,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_19,0.0,,Non-directional importance
+XGBoost,NAME_TYPE_SUITE_Other_B,0.0,,Non-directional importance
 XGBoost,NAME_TYPE_SUITE_Other_A,0.0,,Non-directional importance
 XGBoost,NAME_TYPE_SUITE_Group of people,0.0,,Non-directional importance
 XGBoost,FLAG_OWN_REALTY_Y,0.0,,Non-directional importance
@@ -196,38 +192,42 @@ XGBoost,CODE_GENDER_XNA,0.0,,Non-directional importance
 XGBoost,NAME_CONTRACT_TYPE_Revolving loans,0.0,,Non-directional importance
 XGBoost,AMT_REQ_CREDIT_BUREAU_HOUR,0.0,,Non-directional importance
 XGBoost,FLAG_DOCUMENT_21,0.0,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Insurance,0.0,,Non-directional importance
-XGBoost,NAME_INCOME_TYPE_Maternity leave,0.0,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_19,0.0,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_20,0.0,,Non-directional importance
 XGBoost,FLAG_DOCUMENT_17,0.0,,Non-directional importance
-XGBoost,WALLSMATERIAL_MODE_Mixed,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Industry: type 5,0.0,,Non-directional importance
 XGBoost,FLAG_DOCUMENT_12,0.0,,Non-directional importance
 XGBoost,FLAG_DOCUMENT_10,0.0,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_9,0.0,,Non-directional importance
 XGBoost,FLAG_DOCUMENT_7,0.0,,Non-directional importance
+XGBoost,FLAG_DOCUMENT_5,0.0,,Non-directional importance
 XGBoost,FLAG_DOCUMENT_4,0.0,,Non-directional importance
 XGBoost,FLAG_DOCUMENT_2,0.0,,Non-directional importance
+XGBoost,LIVE_REGION_NOT_WORK_REGION,0.0,,Non-directional importance
+XGBoost,FLAG_CONT_MOBILE,0.0,,Non-directional importance
 XGBoost,FLAG_MOBIL,0.0,,Non-directional importance
-XGBoost,FLAG_DOCUMENT_20,0.0,,Non-directional importance
+XGBoost,NAME_INCOME_TYPE_Businessman,0.0,,Non-directional importance
+XGBoost,NAME_INCOME_TYPE_Maternity leave,0.0,,Non-directional importance
 XGBoost,NAME_INCOME_TYPE_Student,0.0,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Industry: type 8,0.0,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Trade: type 5,0.0,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Industry: type 6,0.0,,Non-directional importance
+XGBoost,NAME_INCOME_TYPE_Unemployed,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Industry: type 4,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Industry: type 3,0.0,,Non-directional importance
 XGBoost,ORGANIZATION_TYPE_Industry: type 2,0.0,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Mobile,0.0,,Non-directional importance
 XGBoost,ORGANIZATION_TYPE_Industry: type 13,0.0,,Non-directional importance
 XGBoost,ORGANIZATION_TYPE_Industry: type 12,0.0,,Non-directional importance
 XGBoost,ORGANIZATION_TYPE_Industry: type 10,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Industry: type 1,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Housing,0.0,,Non-directional importance
 XGBoost,ORGANIZATION_TYPE_Hotel,0.0,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Religion,0.0,,Non-directional importance
 XGBoost,ORGANIZATION_TYPE_Emergency,0.0,,Non-directional importance
 XGBoost,ORGANIZATION_TYPE_Electricity,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Culture,0.0,,Non-directional importance
 XGBoost,ORGANIZATION_TYPE_Cleaning,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Business Entity Type 2,0.0,,Non-directional importance
+XGBoost,ORGANIZATION_TYPE_Advertising,0.0,,Non-directional importance
+XGBoost,OCCUPATION_TYPE_Waiters/barmen staff,0.0,,Non-directional importance
 XGBoost,OCCUPATION_TYPE_Realty agents,0.0,,Non-directional importance
 XGBoost,OCCUPATION_TYPE_IT staff,0.0,,Non-directional importance
 XGBoost,OCCUPATION_TYPE_HR staff,0.0,,Non-directional importance
+XGBoost,NAME_HOUSING_TYPE_Co-op apartment,0.0,,Non-directional importance
 XGBoost,NAME_FAMILY_STATUS_Unknown,0.0,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Trade: type 1,0.0,,Non-directional importance
-XGBoost,NAME_INCOME_TYPE_Unemployed,0.0,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Trade: type 3,0.0,,Non-directional importance
-XGBoost,ORGANIZATION_TYPE_Trade: type 4,0.0,,Non-directional importance
 XGBoost,EMERGENCYSTATE_MODE_Yes,0.0,,Non-directional importance

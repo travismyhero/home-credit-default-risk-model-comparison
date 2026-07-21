@@ -1,233 +1,233 @@
 Model,Feature,Importance,SignedValue,Direction
-Logistic Regression,EXT_SOURCE_3,0.45043933,-0.45043933,Lower risk
-Logistic Regression,EXT_SOURCE_2,0.38084364,-0.38084364,Lower risk
-Logistic Regression,EXT_SOURCE_1,0.18166944,-0.18166944,Lower risk
-Logistic Regression,PAYMENT_RATE,0.17054534,-0.17054534,Lower risk
-Logistic Regression,GOODS_CREDIT_RATIO,0.16668655,-0.16668655,Lower risk
-Logistic Regression,CODE_GENDER_F,0.16273886,-0.16273886,Lower risk
-Logistic Regression,CODE_GENDER_M,0.16243164,0.16243164,Higher risk
-Logistic Regression,NAME_EDUCATION_TYPE_Higher education,0.14471458,-0.14471458,Lower risk
-Logistic Regression,CREDIT_ANNUITY_RATIO,0.12517078,-0.12517078,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Construction,0.12500042,0.12500042,Higher risk
-Logistic Regression,NAME_EDUCATION_TYPE_Secondary / secondary special,0.12483929,0.12483929,Higher risk
-Logistic Regression,FLAG_OWN_CAR_Y,0.12015718,-0.12015718,Lower risk
-Logistic Regression,FLAG_OWN_CAR_N,0.11992351,0.11992351,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Self-employed,0.099655166,0.099655166,Higher risk
-Logistic Regression,FLAG_DOCUMENT_3,0.09821848,0.09821848,Higher risk
-Logistic Regression,OCCUPATION_TYPE_Drivers,0.09491004,0.09491004,Higher risk
-Logistic Regression,ANNUITY_INCOME_RATIO,0.09027862,0.09027862,Higher risk
-Logistic Regression,OCCUPATION_TYPE_Core staff,0.087758265,-0.087758265,Lower risk
-Logistic Regression,EMPLOYED_BIRTH_RATIO,0.084132716,-0.084132716,Lower risk
-Logistic Regression,DAYS_EMPLOYED,0.081084915,0.081084915,Higher risk
-Logistic Regression,REGION_RATING_CLIENT_W_CITY,0.07639469,0.07639469,Higher risk
-Logistic Regression,NAME_FAMILY_STATUS_Married,0.07276704,-0.07276704,Lower risk
-Logistic Regression,FLAG_WORK_PHONE,0.06739962,0.06739962,Higher risk
-Logistic Regression,NAME_INCOME_TYPE_Working,0.06250404,0.06250404,Higher risk
-Logistic Regression,OCCUPATION_TYPE_Accountants,0.062500946,-0.062500946,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_School,0.06250067,-0.06250067,Lower risk
-Logistic Regression,OCCUPATION_TYPE_Low-skill Laborers,0.06250051,0.06250051,Higher risk
-Logistic Regression,NAME_INCOME_TYPE_State servant,0.06250047,-0.06250047,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Military,0.062500075,-0.062500075,Lower risk
-Logistic Regression,NAME_EDUCATION_TYPE_Lower secondary,0.06250006,0.06250006,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Trade: type 2,0.062500015,-0.062500015,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Industry: type 9,0.0625,-0.0625,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Transport: type 3,0.0625,0.0625,Higher risk
-Logistic Regression,AMT_ANNUITY,0.062300753,0.062300753,Higher risk
-Logistic Regression,DAYS_ID_PUBLISH,0.061741717,0.061741717,Higher risk
-Logistic Regression,NAME_FAMILY_STATUS_Civil marriage,0.06150994,0.06150994,Higher risk
-Logistic Regression,FLAG_DOCUMENT_13,0.055773605,-0.055773605,Lower risk
-Logistic Regression,REG_CITY_NOT_LIVE_CITY,0.05353751,0.05353751,Higher risk
-Logistic Regression,AMT_CREDIT,0.05311207,-0.05311207,Lower risk
-Logistic Regression,FLAG_DOCUMENT_18,0.05102662,-0.05102662,Lower risk
-Logistic Regression,DAYS_LAST_PHONE_CHANGE,0.050971482,0.050971482,Higher risk
-Logistic Regression,FONDKAPREMONT_MODE_reg oper account,0.050630946,0.050630946,Higher risk
-Logistic Regression,FLAG_DOCUMENT_16,0.050625656,-0.050625656,Lower risk
-Logistic Regression,FONDKAPREMONT_MODE_reg oper spec account,0.048678126,-0.048678126,Lower risk
-Logistic Regression,FLAG_EMP_PHONE,0.046041857,0.046041857,Higher risk
-Logistic Regression,WEEKDAY_APPR_PROCESS_START_SATURDAY,0.044892907,-0.044892907,Lower risk
-Logistic Regression,FLAG_DOCUMENT_15,0.044181444,-0.044181444,Lower risk
-Logistic Regression,DEF_30_CNT_SOCIAL_CIRCLE,0.043680005,0.043680005,Higher risk
-Logistic Regression,OCCUPATION_TYPE_High skill tech staff,0.04309257,-0.04309257,Lower risk
-Logistic Regression,AMT_REQ_CREDIT_BUREAU_QRT,0.042983476,-0.042983476,Lower risk
-Logistic Regression,FLOORSMAX_AVG,0.04226239,-0.04226239,Lower risk
-Logistic Regression,OCCUPATION_TYPE_Security staff,0.041555304,0.041555304,Higher risk
-Logistic Regression,OWN_CAR_AGE,0.041525915,0.041525915,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Other,0.04064039,-0.04064039,Lower risk
-Logistic Regression,FLAG_DOCUMENT_6,0.035872698,0.035872698,Higher risk
-Logistic Regression,FLAG_DOCUMENT_14,0.03583446,-0.03583446,Lower risk
-Logistic Regression,DEF_60_CNT_SOCIAL_CIRCLE,0.034787204,0.034787204,Higher risk
-Logistic Regression,NAME_CONTRACT_TYPE_Revolving loans,0.031537678,-0.031537678,Lower risk
-Logistic Regression,NAME_CONTRACT_TYPE_Cash loans,0.031483505,0.031483505,Higher risk
-Logistic Regression,NAME_HOUSING_TYPE_House / apartment,0.031329457,-0.031329457,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Business Entity Type 3,0.03131528,0.03131528,Higher risk
-Logistic Regression,NONLIVINGAREA_MODE,0.03129135,-0.03129135,Lower risk
-Logistic Regression,WEEKDAY_APPR_PROCESS_START_TUESDAY,0.031250924,0.031250924,Higher risk
-Logistic Regression,"NAME_TYPE_SUITE_Spouse, partner",0.031250402,-0.031250402,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Business Entity Type 2,0.03125028,0.03125028,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Bank,0.0312502,-0.0312502,Lower risk
-Logistic Regression,NAME_HOUSING_TYPE_Office apartment,0.031250123,-0.031250123,Lower risk
-Logistic Regression,NAME_FAMILY_STATUS_Widow,0.0312501,-0.0312501,Lower risk
-Logistic Regression,NAME_HOUSING_TYPE_Rented apartment,0.03125008,0.03125008,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Industry: type 3,0.031250075,0.031250075,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Security Ministries,0.03125004,-0.03125004,Lower risk
-Logistic Regression,NAME_HOUSING_TYPE_Municipal apartment,0.03125,0.03125,Higher risk
-Logistic Regression,INCOME_PER_PERSON,0.03120742,0.03120742,Higher risk
-Logistic Regression,NONLIVINGAPARTMENTS_MODE,0.030959815,0.030959815,Higher risk
-Logistic Regression,AMT_INCOME_TOTAL,0.029819034,0.029819034,Higher risk
-Logistic Regression,WEEKDAY_APPR_PROCESS_START_SUNDAY,0.028643215,-0.028643215,Lower risk
-Logistic Regression,FLAG_PHONE,0.02863626,-0.02863626,Lower risk
-Logistic Regression,DAYS_REGISTRATION,0.028524509,0.028524509,Higher risk
-Logistic Regression,AMT_REQ_CREDIT_BUREAU_MON,0.027554762,-0.027554762,Lower risk
-Logistic Regression,"WALLSMATERIAL_MODE_Stone, brick",0.027491976,0.027491976,Higher risk
-Logistic Regression,NAME_INCOME_TYPE_Pensioner,0.027042132,-0.027042132,Lower risk
-Logistic Regression,REGION_POPULATION_RELATIVE,0.026502833,0.026502833,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Realtor,0.026485262,0.026485262,Higher risk
-Logistic Regression,WEEKDAY_APPR_PROCESS_START_MONDAY,0.025647694,-0.025647694,Lower risk
-Logistic Regression,WEEKDAY_APPR_PROCESS_START_WEDNESDAY,0.023972772,0.023972772,Higher risk
-Logistic Regression,FLAG_DOCUMENT_4,0.023468912,-0.023468912,Lower risk
-Logistic Regression,NONLIVINGAREA_AVG,0.023432685,0.023432685,Higher risk
-Logistic Regression,REG_REGION_NOT_LIVE_REGION,0.023141626,-0.023141626,Lower risk
-Logistic Regression,NAME_FAMILY_STATUS_Separated,0.022843817,0.022843817,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Government,0.022560917,-0.022560917,Lower risk
-Logistic Regression,WALLSMATERIAL_MODE_Panel,0.022177635,-0.022177635,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Business Entity Type 1,0.021458237,-0.021458237,Lower risk
-Logistic Regression,LIVE_CITY_NOT_WORK_CITY,0.020855375,0.020855375,Higher risk
-Logistic Regression,NAME_FAMILY_STATUS_Single / not married,0.020690324,0.020690324,Higher risk
-Logistic Regression,OCCUPATION_TYPE_Laborers,0.020556102,0.020556102,Higher risk
-Logistic Regression,LIVE_REGION_NOT_WORK_REGION,0.02043759,-0.02043759,Lower risk
-Logistic Regression,WEEKDAY_APPR_PROCESS_START_FRIDAY,0.020134242,0.020134242,Higher risk
-Logistic Regression,FLAG_DOCUMENT_11,0.019966278,-0.019966278,Lower risk
-Logistic Regression,FLAG_DOCUMENT_2,0.019785216,0.019785216,Higher risk
-Logistic Regression,REG_CITY_NOT_WORK_CITY,0.019577492,-0.019577492,Lower risk
-Logistic Regression,ENTRANCES_MODE,0.019365763,-0.019365763,Lower risk
-Logistic Regression,CNT_CHILDREN,0.019286687,0.019286687,Higher risk
-Logistic Regression,FLAG_CONT_MOBILE,0.018657614,-0.018657614,Lower risk
-Logistic Regression,OCCUPATION_TYPE_Sales staff,0.018383734,0.018383734,Higher risk
-Logistic Regression,NONLIVINGAPARTMENTS_AVG,0.017530804,-0.017530804,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_XNA,0.017355438,-0.017355438,Lower risk
-Logistic Regression,ENTRANCES_AVG,0.016779022,-0.016779022,Lower risk
-Logistic Regression,FLAG_DOCUMENT_5,0.016656304,0.016656304,Higher risk
-Logistic Regression,ELEVATORS_AVG,0.015665969,-0.015665969,Lower risk
-Logistic Regression,OCCUPATION_TYPE_Managers,0.015656758,-0.015656758,Lower risk
-Logistic Regression,REG_REGION_NOT_WORK_REGION,0.015633801,0.015633801,Higher risk
-Logistic Regression,OCCUPATION_TYPE_Cleaning staff,0.015625047,0.015625047,Higher risk
-Logistic Regression,OCCUPATION_TYPE_Private service staff,0.015625022,-0.015625022,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Industry: type 1,0.015625022,0.015625022,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Police,0.015625017,-0.015625017,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Trade: type 6,0.015625015,-0.015625015,Lower risk
-Logistic Regression,FONDKAPREMONT_MODE_org spec account,0.015625013,-0.015625013,Lower risk
-Logistic Regression,FLAG_DOCUMENT_17,0.015625007,-0.015625007,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Services,0.015625006,-0.015625006,Lower risk
-Logistic Regression,OCCUPATION_TYPE_Cooking staff,0.015625002,0.015625002,Higher risk
-Logistic Regression,WALLSMATERIAL_MODE_Monolithic,0.015625,-0.015625,Lower risk
-Logistic Regression,AMT_REQ_CREDIT_BUREAU_WEEK,0.015609932,-0.015609932,Lower risk
-Logistic Regression,AMT_REQ_CREDIT_BUREAU_DAY,0.015055405,0.015055405,Higher risk
-Logistic Regression,LANDAREA_AVG,0.014571568,0.014571568,Higher risk
-Logistic Regression,CREDIT_INCOME_RATIO,0.014102702,-0.014102702,Lower risk
-Logistic Regression,NAME_INCOME_TYPE_Commercial associate,0.01381361,0.01381361,Higher risk
-Logistic Regression,NAME_TYPE_SUITE_Unaccompanied,0.01352539,0.01352539,Higher risk
-Logistic Regression,FLAG_OWN_REALTY_Y,0.013423643,0.013423643,Higher risk
-Logistic Regression,FLAG_OWN_REALTY_N,0.013388289,-0.013388289,Lower risk
-Logistic Regression,FLAG_MOBIL,0.012290369,0.012290369,Higher risk
-Logistic Regression,DAYS_BIRTH,0.012117671,0.012117671,Higher risk
-Logistic Regression,NAME_HOUSING_TYPE_With parents,0.011198288,-0.011198288,Lower risk
-Logistic Regression,FONDKAPREMONT_MODE_not specified,0.010702841,0.010702841,Higher risk
-Logistic Regression,LIVINGAPARTMENTS_AVG,0.010656327,0.010656327,Higher risk
-Logistic Regression,ELEVATORS_MODE,0.010056088,-0.010056088,Lower risk
-Logistic Regression,TOTALAREA_MODE,0.01005228,0.01005228,Higher risk
-Logistic Regression,YEARS_BUILD_AVG,0.009673689,-0.009673689,Lower risk
-Logistic Regression,FLAG_EMAIL,0.009550002,-0.009550002,Lower risk
-Logistic Regression,COMMONAREA_AVG,0.009342888,-0.009342888,Lower risk
-Logistic Regression,FLAG_DOCUMENT_20,0.009126998,0.009126998,Higher risk
-Logistic Regression,FLAG_DOCUMENT_8,0.00904323,0.00904323,Higher risk
-Logistic Regression,CNT_FAM_MEMBERS,0.008718236,-0.008718236,Lower risk
-Logistic Regression,FLAG_DOCUMENT_21,0.0072073233,0.0072073233,Higher risk
-Logistic Regression,APARTMENTS_AVG,0.0070711523,0.0070711523,Higher risk
-Logistic Regression,NAME_TYPE_SUITE_Family,0.007020204,-0.007020204,Lower risk
-Logistic Regression,FLAG_DOCUMENT_19,0.0069947694,-0.0069947694,Lower risk
-Logistic Regression,YEARS_BEGINEXPLUATATION_MODE,0.0069335583,-0.0069335583,Lower risk
-Logistic Regression,HOUR_APPR_PROCESS_START,0.0067415764,-0.0067415764,Lower risk
-Logistic Regression,NAME_EDUCATION_TYPE_Incomplete higher,0.0067108567,-0.0067108567,Lower risk
-Logistic Regression,FLAG_DOCUMENT_10,0.00636745,-0.00636745,Lower risk
-Logistic Regression,AMT_REQ_CREDIT_BUREAU_YEAR,0.0063052685,0.0063052685,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Trade: type 7,0.0060669533,0.0060669533,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Kindergarten,0.0056772954,-0.0056772954,Lower risk
-Logistic Regression,EMERGENCYSTATE_MODE_No,0.005668839,0.005668839,Higher risk
-Logistic Regression,EMERGENCYSTATE_MODE_Yes,0.005564983,-0.005564983,Lower risk
-Logistic Regression,LIVINGAREA_AVG,0.005523223,0.005523223,Higher risk
-Logistic Regression,AMT_REQ_CREDIT_BUREAU_HOUR,0.005355922,-0.005355922,Lower risk
-Logistic Regression,OBS_30_CNT_SOCIAL_CIRCLE,0.005304611,0.005304611,Higher risk
-Logistic Regression,WEEKDAY_APPR_PROCESS_START_THURSDAY,0.0051179416,0.0051179416,Higher risk
-Logistic Regression,BASEMENTAREA_AVG,0.004967783,0.004967783,Higher risk
-Logistic Regression,BASEMENTAREA_MODE,0.0047008106,0.0047008106,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Restaurant,0.004311509,0.004311509,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Postal,0.0039071282,0.0039071282,Higher risk
-Logistic Regression,COMMONAREA_MODE,0.0039068274,0.0039068274,Higher risk
-Logistic Regression,HOUSETYPE_MODE_specific housing,0.003906663,0.003906663,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Legal Services,0.0039065084,0.0039065084,Higher risk
-Logistic Regression,LANDAREA_MODE,0.0039064996,-0.0039064996,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Transport: type 2,0.0039064432,-0.0039064432,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Trade: type 3,0.003906418,0.003906418,Higher risk
-Logistic Regression,NAME_TYPE_SUITE_Children,0.0039063636,0.0039063636,Higher risk
-Logistic Regression,NAME_TYPE_SUITE_Other_B,0.0039063,0.0039063,Higher risk
-Logistic Regression,OCCUPATION_TYPE_Waiters/barmen staff,0.003906286,0.003906286,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Agriculture,0.0039062747,0.0039062747,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Cleaning,0.0039062696,0.0039062696,Higher risk
-Logistic Regression,OCCUPATION_TYPE_IT staff,0.003906253,-0.003906253,Lower risk
-Logistic Regression,NAME_EDUCATION_TYPE_Academic degree,0.0039062514,-0.0039062514,Lower risk
-Logistic Regression,WALLSMATERIAL_MODE_Others,0.0039062505,0.0039062505,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Security,0.0039005838,0.0039005838,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Industry: type 7,0.0038542808,-0.0038542808,Lower risk
-Logistic Regression,YEARS_BEGINEXPLUATATION_AVG,0.0037661106,-0.0037661106,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Medicine,0.0033275033,-0.0033275033,Lower risk
-Logistic Regression,WALLSMATERIAL_MODE_Wooden,0.0033015255,-0.0033015255,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Advertising,0.0032522136,0.0032522136,Higher risk
-Logistic Regression,FLAG_DOCUMENT_12,0.002747528,-0.002747528,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Housing,0.0025845529,-0.0025845529,Lower risk
-Logistic Regression,FLOORSMIN_AVG,0.0023835213,0.0023835213,Higher risk
-Logistic Regression,LIVINGAREA_MODE,0.0021180809,0.0021180809,Higher risk
-Logistic Regression,HOUSETYPE_MODE_terraced house,0.001953355,-0.001953355,Lower risk
-Logistic Regression,OCCUPATION_TYPE_Medicine staff,0.0017418435,-0.0017418435,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Insurance,0.001563731,-0.001563731,Lower risk
-Logistic Regression,FLAG_DOCUMENT_7,0.0013224744,0.0013224744,Higher risk
-Logistic Regression,HOUSETYPE_MODE_block of flats,0.001168492,-0.001168492,Lower risk
-Logistic Regression,APARTMENTS_MODE,0.0010079691,0.0010079691,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Culture,0.0009766431,-0.0009766431,Lower risk
-Logistic Regression,NAME_INCOME_TYPE_Unemployed,0.0009765639,0.0009765639,Higher risk
-Logistic Regression,WALLSMATERIAL_MODE_Block,0.00097515766,0.00097515766,Higher risk
-Logistic Regression,NAME_HOUSING_TYPE_Co-op apartment,0.00048819627,0.00048819627,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Telecom,0.00032235708,0.00032235708,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Hotel,0.00029009127,-0.00029009127,Lower risk
-Logistic Regression,ORGANIZATION_TYPE_Industry: type 2,0.00015922991,0.00015922991,Higher risk
-Logistic Regression,REGION_RATING_CLIENT,8.398475e-05,8.398475e-05,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Industry: type 12,3.1172065e-11,-3.1172065e-11,Lower risk
-Logistic Regression,LIVINGAPARTMENTS_MODE,0.0,0.0,Higher risk
-Logistic Regression,OCCUPATION_TYPE_Secretaries,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Transport: type 4,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_University,0.0,0.0,Higher risk
-Logistic Regression,WALLSMATERIAL_MODE_Mixed,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Transport: type 1,0.0,0.0,Higher risk
-Logistic Regression,OCCUPATION_TYPE_HR staff,0.0,0.0,Higher risk
-Logistic Regression,OCCUPATION_TYPE_Realty agents,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Industry: type 6,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Electricity,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Emergency,0.0,0.0,Higher risk
-Logistic Regression,NAME_FAMILY_STATUS_Unknown,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Industry: type 10,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Industry: type 11,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Industry: type 13,0.0,0.0,Higher risk
-Logistic Regression,NAME_INCOME_TYPE_Student,0.0,0.0,Higher risk
+Logistic Regression,EXT_SOURCE_3,0.4497922,-0.4497922,Lower risk
+Logistic Regression,EXT_SOURCE_2,0.38262895,-0.38262895,Lower risk
+Logistic Regression,EXT_SOURCE_1,0.18325542,-0.18325542,Lower risk
+Logistic Regression,GOODS_CREDIT_RATIO,0.16778731,-0.16778731,Lower risk
+Logistic Regression,CODE_GENDER_M,0.16525,0.16525,Higher risk
+Logistic Regression,CODE_GENDER_F,0.16517809,-0.16517809,Lower risk
+Logistic Regression,NAME_EDUCATION_TYPE_Higher education,0.15044333,-0.15044333,Lower risk
+Logistic Regression,NAME_EDUCATION_TYPE_Secondary / secondary special,0.12688924,0.12688924,Higher risk
+Logistic Regression,PAYMENT_RATE,0.11115791,-0.11115791,Lower risk
+Logistic Regression,FLAG_OWN_CAR_N,0.10978969,0.10978969,Higher risk
+Logistic Regression,FLAG_OWN_CAR_Y,0.10978013,-0.10978013,Lower risk
+Logistic Regression,FLAG_DOCUMENT_3,0.08842357,0.08842357,Higher risk
+Logistic Regression,EMPLOYED_BIRTH_RATIO,0.08716297,-0.08716297,Lower risk
+Logistic Regression,CREDIT_ANNUITY_RATIO,0.08668952,-0.08668952,Lower risk
+Logistic Regression,ANNUITY_INCOME_RATIO,0.08279284,0.08279284,Higher risk
+Logistic Regression,DAYS_EMPLOYED,0.082721755,0.082721755,Higher risk
+Logistic Regression,NAME_FAMILY_STATUS_Married,0.06853837,-0.06853837,Lower risk
+Logistic Regression,FLAG_WORK_PHONE,0.06565712,0.06565712,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Self-employed,0.06316735,0.06316735,Higher risk
+Logistic Regression,NAME_INCOME_TYPE_Working,0.060076874,0.060076874,Higher risk
+Logistic Regression,DAYS_ID_PUBLISH,0.058449436,0.058449436,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Core staff,0.0553993,-0.0553993,Lower risk
+Logistic Regression,REGION_RATING_CLIENT_W_CITY,0.054439336,0.054439336,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Drivers,0.05118628,0.05118628,Higher risk
+Logistic Regression,FLAG_DOCUMENT_13,0.04862619,-0.04862619,Lower risk
+Logistic Regression,FLAG_DOCUMENT_18,0.047085874,-0.047085874,Lower risk
+Logistic Regression,FLAG_DOCUMENT_16,0.045736827,-0.045736827,Lower risk
+Logistic Regression,DAYS_LAST_PHONE_CHANGE,0.045512535,0.045512535,Higher risk
+Logistic Regression,FLAG_EMP_PHONE,0.044498898,0.044498898,Higher risk
+Logistic Regression,NAME_INCOME_TYPE_State servant,0.043222807,-0.043222807,Lower risk
+Logistic Regression,REG_CITY_NOT_LIVE_CITY,0.042815458,0.042815458,Higher risk
+Logistic Regression,DEF_30_CNT_SOCIAL_CIRCLE,0.042684637,0.042684637,Higher risk
+Logistic Regression,AMT_ANNUITY,0.04057442,0.04057442,Higher risk
+Logistic Regression,AMT_REQ_CREDIT_BUREAU_QRT,0.038911078,-0.038911078,Lower risk
+Logistic Regression,ORGANIZATION_TYPE_Construction,0.037688036,0.037688036,Higher risk
+Logistic Regression,OWN_CAR_AGE,0.036190473,0.036190473,Higher risk
+Logistic Regression,FLAG_DOCUMENT_15,0.03570834,-0.03570834,Lower risk
+Logistic Regression,DEF_60_CNT_SOCIAL_CIRCLE,0.032529324,0.032529324,Higher risk
+Logistic Regression,FLOORSMAX_AVG,0.031352103,-0.031352103,Lower risk
+Logistic Regression,FLAG_DOCUMENT_14,0.03125004,-0.03125004,Lower risk
+Logistic Regression,NAME_FAMILY_STATUS_Civil marriage,0.031250007,0.031250007,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Accountants,0.030032402,-0.030032402,Lower risk
+Logistic Regression,FLAG_PHONE,0.029191697,-0.029191697,Lower risk
+Logistic Regression,INCOME_PER_PERSON,0.028697535,0.028697535,Higher risk
+Logistic Regression,AMT_CREDIT,0.028362641,-0.028362641,Lower risk
+Logistic Regression,DAYS_REGISTRATION,0.026553676,0.026553676,Higher risk
+Logistic Regression,AMT_REQ_CREDIT_BUREAU_MON,0.025529055,-0.025529055,Lower risk
+Logistic Regression,NAME_CONTRACT_TYPE_Cash loans,0.025490906,0.025490906,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Business Entity Type 3,0.024809614,0.024809614,Higher risk
+Logistic Regression,NAME_CONTRACT_TYPE_Revolving loans,0.02255272,-0.02255272,Lower risk
+Logistic Regression,FONDKAPREMONT_MODE_reg oper account,0.020868806,0.020868806,Higher risk
+Logistic Regression,WEEKDAY_APPR_PROCESS_START_SATURDAY,0.020761643,-0.020761643,Lower risk
+Logistic Regression,FLAG_DOCUMENT_6,0.020297272,0.020297272,Higher risk
+Logistic Regression,REGION_POPULATION_RELATIVE,0.020116143,0.020116143,Higher risk
+Logistic Regression,FLAG_DOCUMENT_11,0.018135153,-0.018135153,Lower risk
+Logistic Regression,FLAG_DOCUMENT_2,0.018133922,0.018133922,Higher risk
+Logistic Regression,REGION_RATING_CLIENT,0.017535744,0.017535744,Higher risk
+Logistic Regression,DAYS_BIRTH,0.015928775,0.015928775,Higher risk
+Logistic Regression,WEEKDAY_APPR_PROCESS_START_TUESDAY,0.0157815,0.0157815,Higher risk
+Logistic Regression,FLAG_CONT_MOBILE,0.014638343,-0.014638343,Lower risk
+Logistic Regression,NAME_FAMILY_STATUS_Single / not married,0.014239195,0.014239195,Higher risk
+Logistic Regression,NAME_HOUSING_TYPE_House / apartment,0.014043263,-0.014043263,Lower risk
+Logistic Regression,ORGANIZATION_TYPE_School,0.0139016295,-0.0139016295,Lower risk
+Logistic Regression,REG_REGION_NOT_LIVE_REGION,0.013528246,-0.013528246,Lower risk
+Logistic Regression,ORGANIZATION_TYPE_Other,0.012355696,-0.012355696,Lower risk
+Logistic Regression,NAME_INCOME_TYPE_Pensioner,0.012102234,-0.012102234,Lower risk
+Logistic Regression,WEEKDAY_APPR_PROCESS_START_MONDAY,0.011755367,-0.011755367,Lower risk
+Logistic Regression,FLAG_MOBIL,0.011745875,0.011745875,Higher risk
+Logistic Regression,ENTRANCES_MODE,0.011430378,-0.011430378,Lower risk
+Logistic Regression,FLAG_DOCUMENT_5,0.011395911,0.011395911,Higher risk
+Logistic Regression,AMT_REQ_CREDIT_BUREAU_WEEK,0.01134176,-0.01134176,Lower risk
+Logistic Regression,ENTRANCES_AVG,0.01133228,-0.01133228,Lower risk
+Logistic Regression,NONLIVINGAPARTMENTS_MODE,0.011166931,0.011166931,Higher risk
+Logistic Regression,FONDKAPREMONT_MODE_reg oper spec account,0.011074151,-0.011074151,Lower risk
+Logistic Regression,WALLSMATERIAL_MODE_Panel,0.010773102,-0.010773102,Lower risk
+Logistic Regression,ORGANIZATION_TYPE_XNA,0.010667851,-0.010667851,Lower risk
+Logistic Regression,FLAG_DOCUMENT_17,0.010507066,-0.010507066,Lower risk
+Logistic Regression,"WALLSMATERIAL_MODE_Stone, brick",0.010216793,0.010216793,Higher risk
+Logistic Regression,AMT_REQ_CREDIT_BUREAU_DAY,0.0101046385,0.0101046385,Higher risk
+Logistic Regression,CNT_CHILDREN,0.010098283,0.010098283,Higher risk
+Logistic Regression,YEARS_BUILD_AVG,0.010051603,-0.010051603,Lower risk
+Logistic Regression,OCCUPATION_TYPE_Low-skill Laborers,0.0100029195,0.0100029195,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Laborers,0.0099974945,0.0099974945,Higher risk
+Logistic Regression,FLAG_DOCUMENT_4,0.00987944,-0.00987944,Lower risk
+Logistic Regression,NAME_EDUCATION_TYPE_Lower secondary,0.009181124,0.009181124,Higher risk
+Logistic Regression,OCCUPATION_TYPE_High skill tech staff,0.009167815,-0.009167815,Lower risk
+Logistic Regression,ELEVATORS_AVG,0.008333585,-0.008333585,Lower risk
+Logistic Regression,ORGANIZATION_TYPE_Military,0.007532725,-0.007532725,Lower risk
+Logistic Regression,OCCUPATION_TYPE_Sales staff,0.007492697,0.007492697,Higher risk
+Logistic Regression,LANDAREA_AVG,0.007383034,0.007383034,Higher risk
+Logistic Regression,FLAG_OWN_REALTY_Y,0.0073412196,0.0073412196,Higher risk
+Logistic Regression,FLAG_OWN_REALTY_N,0.007305355,-0.007305355,Lower risk
+Logistic Regression,OCCUPATION_TYPE_Security staff,0.0071150796,0.0071150796,Higher risk
+Logistic Regression,CREDIT_INCOME_RATIO,0.0070672086,-0.0070672086,Lower risk
+Logistic Regression,NAME_TYPE_SUITE_Unaccompanied,0.0069664908,0.0069664908,Higher risk
+Logistic Regression,WEEKDAY_APPR_PROCESS_START_WEDNESDAY,0.0068554822,0.0068554822,Higher risk
+Logistic Regression,FLAG_EMAIL,0.0065768,-0.0065768,Lower risk
+Logistic Regression,NAME_FAMILY_STATUS_Separated,0.0060968674,0.0060968674,Higher risk
+Logistic Regression,FLAG_DOCUMENT_21,0.006019854,0.006019854,Higher risk
+Logistic Regression,AMT_REQ_CREDIT_BUREAU_YEAR,0.005788784,0.005788784,Higher risk
+Logistic Regression,WEEKDAY_APPR_PROCESS_START_FRIDAY,0.0057090195,0.0057090195,Higher risk
+Logistic Regression,HOUR_APPR_PROCESS_START,0.0056062955,-0.0056062955,Lower risk
+Logistic Regression,NAME_HOUSING_TYPE_Municipal apartment,0.0055132913,0.0055132913,Higher risk
+Logistic Regression,LIVINGAPARTMENTS_AVG,0.005480938,0.005480938,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Trade: type 2,0.0054112175,-0.0054112175,Lower risk
+Logistic Regression,YEARS_BEGINEXPLUATATION_MODE,0.0054088617,-0.0054088617,Lower risk
+Logistic Regression,AMT_INCOME_TOTAL,0.0051818336,0.0051818336,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Transport: type 3,0.00508302,0.00508302,Higher risk
+Logistic Regression,FLAG_DOCUMENT_20,0.0050758207,0.0050758207,Higher risk
+Logistic Regression,FLAG_DOCUMENT_19,0.00494221,-0.00494221,Lower risk
+Logistic Regression,NONLIVINGAREA_MODE,0.004462317,-0.004462317,Lower risk
+Logistic Regression,LIVE_CITY_NOT_WORK_CITY,0.0043452755,0.0043452755,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Managers,0.0035729187,-0.0035729187,Lower risk
+Logistic Regression,CNT_FAM_MEMBERS,0.003562547,-0.003562547,Lower risk
+Logistic Regression,YEARS_BEGINEXPLUATATION_AVG,0.0034966248,-0.0034966248,Lower risk
+Logistic Regression,LIVE_REGION_NOT_WORK_REGION,0.0031708623,-0.0031708623,Lower risk
+Logistic Regression,NAME_HOUSING_TYPE_Rented apartment,0.0029979458,0.0029979458,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Industry: type 9,0.0029722084,-0.0029722084,Lower risk
+Logistic Regression,OBS_30_CNT_SOCIAL_CIRCLE,0.0029108732,0.0029108732,Higher risk
+Logistic Regression,ELEVATORS_MODE,0.0027454176,-0.0027454176,Lower risk
+Logistic Regression,NAME_INCOME_TYPE_Commercial associate,0.0021167058,0.0021167058,Higher risk
+Logistic Regression,BASEMENTAREA_AVG,0.0019548028,0.0019548028,Higher risk
+Logistic Regression,AMT_REQ_CREDIT_BUREAU_HOUR,0.0018646489,-0.0018646489,Lower risk
+Logistic Regression,FLAG_DOCUMENT_10,0.0015932652,-0.0015932652,Lower risk
+Logistic Regression,WEEKDAY_APPR_PROCESS_START_SUNDAY,0.001407858,-0.001407858,Lower risk
+Logistic Regression,ORGANIZATION_TYPE_Government,0.0013836595,-0.0013836595,Lower risk
+Logistic Regression,BASEMENTAREA_MODE,0.001163098,0.001163098,Higher risk
+Logistic Regression,COMMONAREA_AVG,0.000821327,-0.000821327,Lower risk
+Logistic Regression,FLAG_DOCUMENT_8,0.0006629714,0.0006629714,Higher risk
+Logistic Regression,NAME_TYPE_SUITE_Family,0.00057850423,-0.00057850423,Lower risk
+Logistic Regression,LIVINGAPARTMENTS_MODE,0.00032713442,0.00032713442,Higher risk
+Logistic Regression,APARTMENTS_AVG,0.00012913447,0.00012913447,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Bank,5.5120677e-06,-5.5120677e-06,Lower risk
+Logistic Regression,FLOORSMIN_AVG,5.2700777e-09,5.2700777e-09,Higher risk
+Logistic Regression,APARTMENTS_MODE,2.4622557e-09,2.4622557e-09,Higher risk
+Logistic Regression,EMERGENCYSTATE_MODE_No,1.789275e-09,1.789275e-09,Higher risk
+Logistic Regression,LANDAREA_MODE,1.7697799e-09,1.7697799e-09,Higher risk
+Logistic Regression,TOTALAREA_MODE,1.5714239e-09,1.5714239e-09,Higher risk
+Logistic Regression,LIVINGAREA_AVG,1.5226433e-09,1.5226433e-09,Higher risk
+Logistic Regression,LIVINGAREA_MODE,8.842602e-10,8.842602e-10,Higher risk
+Logistic Regression,HOUSETYPE_MODE_block of flats,5.999641e-10,5.999641e-10,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Trade: type 1,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Transport: type 2,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Postal,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Trade: type 7,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Police,0.0,0.0,Higher risk
 Logistic Regression,ORGANIZATION_TYPE_Industry: type 4,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Industry: type 5,0.0,0.0,Higher risk
+Logistic Regression,WALLSMATERIAL_MODE_Mixed,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Mobile,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Transport: type 1,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Medicine,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Trade: type 6,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Legal Services,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Kindergarten,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Insurance,0.0,0.0,Higher risk
+Logistic Regression,WALLSMATERIAL_MODE_Block,0.0,0.0,Higher risk
 Logistic Regression,ORGANIZATION_TYPE_Industry: type 8,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Industry: type 7,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Industry: type 6,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Realtor,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Religion,0.0,0.0,Higher risk
+Logistic Regression,FONDKAPREMONT_MODE_org spec account,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Restaurant,0.0,0.0,Higher risk
+Logistic Regression,FONDKAPREMONT_MODE_not specified,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Telecom,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Services,0.0,0.0,Higher risk
+Logistic Regression,WALLSMATERIAL_MODE_Others,0.0,0.0,Higher risk
+Logistic Regression,HOUSETYPE_MODE_specific housing,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Security Ministries,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Trade: type 3,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Security,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Trade: type 4,0.0,0.0,Higher risk
+Logistic Regression,HOUSETYPE_MODE_terraced house,0.0,0.0,Higher risk
+Logistic Regression,WALLSMATERIAL_MODE_Wooden,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_University,0.0,0.0,Higher risk
 Logistic Regression,ORGANIZATION_TYPE_Trade: type 5,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Transport: type 4,0.0,0.0,Higher risk
+Logistic Regression,WALLSMATERIAL_MODE_Monolithic,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Industry: type 5,0.0,0.0,Higher risk
+Logistic Regression,NAME_EDUCATION_TYPE_Academic degree,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Industry: type 3,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Industry: type 2,0.0,0.0,Higher risk
+Logistic Regression,NAME_HOUSING_TYPE_Office apartment,0.0,0.0,Higher risk
+Logistic Regression,NAME_HOUSING_TYPE_Co-op apartment,0.0,0.0,Higher risk
+Logistic Regression,NAME_FAMILY_STATUS_Widow,0.0,0.0,Higher risk
+Logistic Regression,NAME_FAMILY_STATUS_Unknown,0.0,0.0,Higher risk
+Logistic Regression,NAME_EDUCATION_TYPE_Incomplete higher,0.0,0.0,Higher risk
+Logistic Regression,NAME_INCOME_TYPE_Unemployed,0.0,0.0,Higher risk
+Logistic Regression,NAME_INCOME_TYPE_Student,0.0,0.0,Higher risk
 Logistic Regression,NAME_INCOME_TYPE_Maternity leave,0.0,0.0,Higher risk
 Logistic Regression,NAME_INCOME_TYPE_Businessman,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Mobile,0.0,0.0,Higher risk
+Logistic Regression,"NAME_TYPE_SUITE_Spouse, partner",0.0,0.0,Higher risk
+Logistic Regression,NAME_TYPE_SUITE_Other_B,0.0,0.0,Higher risk
 Logistic Regression,NAME_TYPE_SUITE_Other_A,0.0,0.0,Higher risk
 Logistic Regression,NAME_TYPE_SUITE_Group of people,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Religion,0.0,0.0,Higher risk
-Logistic Regression,FLAG_DOCUMENT_9,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Trade: type 1,0.0,0.0,Higher risk
-Logistic Regression,ORGANIZATION_TYPE_Trade: type 4,0.0,0.0,Higher risk
+Logistic Regression,NAME_TYPE_SUITE_Children,0.0,0.0,Higher risk
 Logistic Regression,CODE_GENDER_XNA,0.0,0.0,Higher risk
+Logistic Regression,FLAG_DOCUMENT_12,0.0,0.0,Higher risk
+Logistic Regression,FLAG_DOCUMENT_9,0.0,0.0,Higher risk
+Logistic Regression,FLAG_DOCUMENT_7,0.0,0.0,Higher risk
+Logistic Regression,COMMONAREA_MODE,0.0,0.0,Higher risk
+Logistic Regression,NONLIVINGAREA_AVG,0.0,0.0,Higher risk
+Logistic Regression,NONLIVINGAPARTMENTS_AVG,0.0,0.0,Higher risk
+Logistic Regression,REG_CITY_NOT_WORK_CITY,0.0,0.0,Higher risk
+Logistic Regression,REG_REGION_NOT_WORK_REGION,0.0,0.0,Higher risk
+Logistic Regression,NAME_HOUSING_TYPE_With parents,0.0,0.0,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Cleaning staff,0.0,0.0,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Cooking staff,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Cleaning,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Industry: type 13,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Industry: type 12,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Industry: type 11,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Industry: type 10,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Industry: type 1,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Housing,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Hotel,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Emergency,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Electricity,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Culture,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Business Entity Type 2,0.0,0.0,Higher risk
+Logistic Regression,OCCUPATION_TYPE_HR staff,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Business Entity Type 1,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Agriculture,0.0,0.0,Higher risk
+Logistic Regression,ORGANIZATION_TYPE_Advertising,0.0,0.0,Higher risk
+Logistic Regression,WEEKDAY_APPR_PROCESS_START_THURSDAY,0.0,0.0,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Waiters/barmen staff,0.0,0.0,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Secretaries,0.0,0.0,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Realty agents,0.0,0.0,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Private service staff,0.0,0.0,Higher risk
+Logistic Regression,OCCUPATION_TYPE_Medicine staff,0.0,0.0,Higher risk
+Logistic Regression,OCCUPATION_TYPE_IT staff,0.0,0.0,Higher risk
+Logistic Regression,EMERGENCYSTATE_MODE_Yes,0.0,0.0,Higher risk
