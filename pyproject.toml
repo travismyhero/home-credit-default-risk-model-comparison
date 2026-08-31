@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "home-credit-risk-benchmark"
+version = "0.1.0"
+description = "Leakage-aware Home Credit linear and nonlinear model benchmark"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "scipy>=1.12",
+    "scikit-learn>=1.8,<1.9",
+    "PyYAML>=6.0",
+    "joblib>=1.4",
+    "statsmodels>=0.14",
+    "catboost>=1.2,<1.3",
+    "lightgbm>=4.5,<4.7",
+    "xgboost>=2.1,<2.2",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "-ra"
+pythonpath = ["src", "."]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"

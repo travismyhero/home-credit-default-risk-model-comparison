@@ -1,9 +1,17 @@
 .DS_Store
 __pycache__/
 *.py[cod]
+*.egg-info/
+.ruff_cache/
 .ipynb_checkpoints/
+.pytest_cache/
 *.debug.executed.ipynb
+*.executed.ipynb
 tmp/
+catboost_info/
+artifacts/
+**/model_outputs/
+machinelearning_final/统一数据探查产物/
 
 # Kaggle data is not redistributed in this repository.
 data/application_train.csv
