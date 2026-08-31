@@ -1,0 +1,53 @@
+policy:
+  version: 1
+  fit_statistics_on: Train
+  validate_on: Selection
+  final_diagnostics_on: Test_after_lock
+
+exclude_features:
+  - CODE_GENDER
+
+known_special_values:
+  DAYS_EMPLOYED:
+    - 365243
+
+fixed_feature_engineering:
+  enabled: true
+  replace_infinity_with_missing: true
+  employed_special_flag: EMPLOYED_SPECIAL_FLAG
+  day_to_year:
+    DAYS_BIRTH: AGE_YEARS
+    DAYS_EMPLOYED: EMPLOYED_YEARS
+    DAYS_REGISTRATION: REGISTRATION_YEARS
+    DAYS_ID_PUBLISH: ID_PUBLISH_YEARS
+    DAYS_LAST_PHONE_CHANGE: PHONE_CHANGE_YEARS
+  ratios:
+    CREDIT_INCOME_RATIO: [AMT_CREDIT, AMT_INCOME_TOTAL]
+    ANNUITY_INCOME_RATIO: [AMT_ANNUITY, AMT_INCOME_TOTAL]
+    CREDIT_ANNUITY_RATIO: [AMT_CREDIT, AMT_ANNUITY]
+    GOODS_CREDIT_RATIO: [AMT_GOODS_PRICE, AMT_CREDIT]
+    INCOME_PER_PERSON: [AMT_INCOME_TOTAL, CNT_FAM_MEMBERS]
+    EMPLOYED_AGE_RATIO: [EMPLOYED_YEARS, AGE_YEARS]
+  drop_original_day_features: true
+
+quality_screen:
+  hard_drop:
+    all_missing: true
+    constant: true
+    id_like_categorical: true
+  review_only:
+    high_missing_threshold: 0.95
+    quasi_constant_threshold: 0.995
+    low_cardinality_numeric_max: 10
+    psi_watch_threshold: 0.10
+    psi_investigate_threshold: 0.25
+  automatic_outlier_clipping: false
+  automatic_high_missing_drop: false
+  automatic_psi_drop: false
+
+categorical:
+  missing_label: __MISSING__
+  rare_label: __RARE__
+  unseen_label: __UNSEEN__
+  rare_min_count: 50
+  rare_min_share: 0.001

@@ -1,0 +1,60 @@
+project:
+  name: home-credit-linear-vs-nonlinear-benchmark
+  version: 2
+  objective: >-
+    Compare nonlinear model families with linear baselines under a shared sample,
+    information set, selection rule, and final evaluation protocol.
+
+data:
+  path: data/application_train.csv
+  target: TARGET
+  id: SK_ID_CURR
+  expected_labels: [0, 1]
+  require_unique_id: true
+  expected_sha256: 52e96b895b1112e1c853f670e58372719c8441c5ed1c57ac2f7fad559d784f5f
+
+split:
+  train: 0.70
+  selection: 0.15
+  test: 0.15
+  stratify: true
+  random_state: 42
+  expected_sha256: 4ae4ceee661ba8c210fa0a1cf950448799a0aef468659e6d2590c1bb4e8a3835
+
+selection:
+  primary_metric: AR
+  ar_tolerance: 0.005
+  prefer_smaller_generalization_gap: true
+  prefer_lower_capacity: true
+
+evaluation:
+  metrics: [AUC, AR, KS, AP, Logloss]
+  bootstrap_replicates: 500
+  bootstrap_confidence_level: 0.95
+  review_rate_demo: 0.10
+  calibrated: false
+
+test_policy:
+  locked_until_all_models: true
+  registry_path: artifacts/locked_models.json
+  required_models:
+    - common_logistic
+    - woe_logistic
+    - random_forest
+    - catboost
+    - lightgbm
+    - xgboost
+    - mlp
+  prior_test_exposure: true
+  disclosure: >-
+    The current random Test partition was inspected during earlier development.
+    Keep that limitation in the final report or designate a fresh sealed holdout
+    before making a stronger unbiased-performance claim.
+
+experiment_tracks:
+  controlled:
+    description: Shared rows and raw information; model-appropriate encoding only.
+    linear_reference: common_logistic
+  best_practice:
+    description: Model-specific feature selection and preprocessing, reported separately.
+    linear_reference: woe_logistic

@@ -1,0 +1,315 @@
+common_logistic:
+  preprocessing: median_scale_onehot
+  candidates:
+    penalty: [l2]
+    C: [0.01, 0.1, 1.0, 10.0]
+
+woe_logistic:
+  iv_min: 0.02
+  correlation_threshold: 0.70
+  single_ar_gap: 0.03
+  vif_max: 10.0
+  p_value_max: 0.05
+  enforce_positive_coefficients: true
+
+random_forest:
+  class_weight: balanced_subsample
+  random_state: 42
+  screening_sample_size: 60000
+  screening_n_estimators: 160
+  screening_finalists: 2
+  tree_count_refinement: [300, 500]
+  structure_profiles:
+    - name: conservative
+      max_depth: 8
+      min_samples_leaf: 100
+      min_samples_split: 200
+      max_features: sqrt
+      max_samples: 0.70
+      bootstrap: true
+    - name: shallow_feature_rich
+      max_depth: 8
+      min_samples_leaf: 50
+      min_samples_split: 100
+      max_features: 0.5
+      max_samples: 0.70
+      bootstrap: true
+    - name: balanced
+      max_depth: 12
+      min_samples_leaf: 50
+      min_samples_split: 100
+      max_features: sqrt
+      max_samples: 0.85
+      bootstrap: true
+    - name: feature_rich_regularized
+      max_depth: 12
+      min_samples_leaf: 100
+      min_samples_split: 200
+      max_features: 0.5
+      max_samples: 0.70
+      bootstrap: true
+    - name: flexible
+      max_depth: 16
+      min_samples_leaf: 20
+      min_samples_split: 40
+      max_features: sqrt
+      max_samples: 0.85
+      bootstrap: true
+    - name: deep_regularized
+      max_depth: null
+      min_samples_leaf: 100
+      min_samples_split: 200
+      max_features: sqrt
+      max_samples: 0.70
+      bootstrap: true
+
+catboost:
+  max_iterations: 3000
+  extension_max_iterations: 5000
+  early_stopping_rounds: 150
+  max_boundary_extensions: 3
+  random_state: 42
+  shap_sample_size: 3000
+  candidate_profiles:
+    - name: legacy_conservative
+      depth: 4
+      learning_rate: 0.02
+      l2_leaf_reg: 5.0
+      subsample: 0.70
+      rsm: 0.80
+      random_strength: 0.5
+    - name: shallow_faster
+      depth: 4
+      learning_rate: 0.03
+      l2_leaf_reg: 5.0
+      subsample: 0.80
+      rsm: 0.90
+      random_strength: 0.5
+    - name: balanced
+      depth: 5
+      learning_rate: 0.03
+      l2_leaf_reg: 5.0
+      subsample: 0.80
+      rsm: 0.90
+      random_strength: 1.0
+    - name: legacy_baseline
+      depth: 6
+      learning_rate: 0.03
+      l2_leaf_reg: 5.0
+      subsample: 0.80
+      rsm: 0.90
+      random_strength: 1.0
+    - name: faster_strong_l2
+      depth: 6
+      learning_rate: 0.05
+      l2_leaf_reg: 10.0
+      subsample: 0.80
+      rsm: 0.90
+      random_strength: 1.0
+    - name: deep_regularized
+      depth: 7
+      learning_rate: 0.03
+      l2_leaf_reg: 10.0
+      subsample: 0.70
+      rsm: 0.80
+      random_strength: 2.0
+
+lightgbm:
+  max_iterations: 3000
+  extension_max_iterations: 5000
+  early_stopping_rounds: 150
+  max_boundary_extensions: 3
+  random_state: 42
+  shap_sample_size: 3000
+  candidate_profiles:
+    - name: conservative_smooth
+      num_leaves: 15
+      max_depth: 5
+      min_child_samples: 300
+      learning_rate: 0.02
+      reg_lambda: 10.0
+      reg_alpha: 0.0
+      subsample: 0.70
+      colsample_bytree: 0.80
+      min_split_gain: 0.0
+      cat_smooth: 20.0
+    - name: shallow_stable
+      num_leaves: 31
+      max_depth: 6
+      min_child_samples: 300
+      learning_rate: 0.02
+      reg_lambda: 5.0
+      reg_alpha: 0.0
+      subsample: 0.80
+      colsample_bytree: 0.90
+      min_split_gain: 0.0
+      cat_smooth: 20.0
+    - name: legacy_balanced
+      num_leaves: 31
+      max_depth: 6
+      min_child_samples: 200
+      learning_rate: 0.03
+      reg_lambda: 5.0
+      reg_alpha: 0.0
+      subsample: 0.80
+      colsample_bytree: 0.90
+      min_split_gain: 0.0
+      cat_smooth: 10.0
+    - name: regularized_balanced
+      num_leaves: 31
+      max_depth: 6
+      min_child_samples: 300
+      learning_rate: 0.03
+      reg_lambda: 10.0
+      reg_alpha: 0.5
+      subsample: 0.80
+      colsample_bytree: 0.90
+      min_split_gain: 0.05
+      cat_smooth: 20.0
+    - name: leaf_rich_regularized
+      num_leaves: 63
+      max_depth: 7
+      min_child_samples: 300
+      learning_rate: 0.03
+      reg_lambda: 10.0
+      reg_alpha: 1.0
+      subsample: 0.80
+      colsample_bytree: 0.80
+      min_split_gain: 0.05
+      cat_smooth: 20.0
+    - name: faster_strong_l2
+      num_leaves: 31
+      max_depth: 6
+      min_child_samples: 300
+      learning_rate: 0.05
+      reg_lambda: 10.0
+      reg_alpha: 1.0
+      subsample: 0.80
+      colsample_bytree: 0.90
+      min_split_gain: 0.05
+      cat_smooth: 20.0
+    - name: wide_conservative
+      num_leaves: 63
+      max_depth: 7
+      min_child_samples: 500
+      learning_rate: 0.02
+      reg_lambda: 20.0
+      reg_alpha: 1.0
+      subsample: 0.70
+      colsample_bytree: 0.80
+      min_split_gain: 0.10
+      cat_smooth: 50.0
+
+xgboost:
+  max_iterations: 3000
+  extension_max_iterations: 5000
+  early_stopping_rounds: 150
+  max_boundary_extensions: 3
+  random_state: 42
+  shap_sample_size: 3000
+  candidate_profiles:
+    - name: conservative_depth3
+      max_depth: 3
+      min_child_weight: 20.0
+      learning_rate: 0.02
+      reg_lambda: 10.0
+      reg_alpha: 0.0
+      subsample: 0.70
+      colsample_bytree: 0.80
+      gamma: 0.0
+    - name: shallow_stable
+      max_depth: 3
+      min_child_weight: 10.0
+      learning_rate: 0.03
+      reg_lambda: 5.0
+      reg_alpha: 0.0
+      subsample: 0.80
+      colsample_bytree: 0.90
+      gamma: 0.0
+    - name: legacy_balanced
+      max_depth: 4
+      min_child_weight: 10.0
+      learning_rate: 0.03
+      reg_lambda: 5.0
+      reg_alpha: 0.0
+      subsample: 0.80
+      colsample_bytree: 0.90
+      gamma: 0.0
+    - name: regularized_depth4
+      max_depth: 4
+      min_child_weight: 20.0
+      learning_rate: 0.03
+      reg_lambda: 10.0
+      reg_alpha: 1.0
+      subsample: 0.80
+      colsample_bytree: 0.90
+      gamma: 0.05
+    - name: depth5_regularized
+      max_depth: 5
+      min_child_weight: 20.0
+      learning_rate: 0.03
+      reg_lambda: 20.0
+      reg_alpha: 1.0
+      subsample: 0.80
+      colsample_bytree: 0.80
+      gamma: 0.05
+    - name: faster_strong_l2
+      max_depth: 4
+      min_child_weight: 20.0
+      learning_rate: 0.05
+      reg_lambda: 10.0
+      reg_alpha: 1.0
+      subsample: 0.80
+      colsample_bytree: 0.90
+      gamma: 0.05
+    - name: deep_conservative
+      max_depth: 5
+      min_child_weight: 40.0
+      learning_rate: 0.02
+      reg_lambda: 20.0
+      reg_alpha: 1.0
+      subsample: 0.70
+      colsample_bytree: 0.80
+      gamma: 0.10
+
+mlp:
+  preprocessing: median_scale_onehot
+  max_epochs: 200
+  extension_max_epochs: 300
+  early_stopping_rounds: 20
+  max_boundary_extensions: 2
+  random_state: 42
+  permutation_sample_size: 3000
+  permutation_repeats: 3
+  activation: relu
+  candidate_profiles:
+    - name: single_64
+      hidden_layer_sizes: [64]
+      alpha: 0.001
+      learning_rate_init: 0.0008
+      batch_size: 512
+    - name: compact_64_32
+      hidden_layer_sizes: [64, 32]
+      alpha: 0.001
+      learning_rate_init: 0.0008
+      batch_size: 512
+    - name: wider_128_64
+      hidden_layer_sizes: [128, 64]
+      alpha: 0.001
+      learning_rate_init: 0.0005
+      batch_size: 512
+    - name: compact_strong_l2
+      hidden_layer_sizes: [64, 32]
+      alpha: 0.01
+      learning_rate_init: 0.001
+      batch_size: 512
+    - name: wider_strong_l2
+      hidden_layer_sizes: [128, 64]
+      alpha: 0.01
+      learning_rate_init: 0.0008
+      batch_size: 512
+    - name: wide_single
+      hidden_layer_sizes: [128]
+      alpha: 0.001
+      learning_rate_init: 0.001
+      batch_size: 512
